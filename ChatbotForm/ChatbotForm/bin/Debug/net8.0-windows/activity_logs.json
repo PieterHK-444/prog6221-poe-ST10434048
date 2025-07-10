@@ -1,0 +1,562 @@
+[
+  {
+    "Id": "787ef706-6f01-421d-9cf1-51e2f81e98ea",
+    "Action": "User Login",
+    "Description": "User \u0027John\u0027 started a new session",
+    "Timestamp": "2025-06-26T23:36:26.4520505+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "a2c13706-2ff9-4eb8-b4ef-c29b8fd75987",
+    "Action": "Quiz Started",
+    "Description": "Started cybersecurity quiz",
+    "Timestamp": "2025-06-26T23:36:39.1634206+02:00",
+    "UserName": "John",
+    "Category": "Quiz"
+  },
+  {
+    "Id": "ebe44ac8-c452-4bb3-8b75-c2f1dc81fe4d",
+    "Action": "Quiz Completed",
+    "Description": "Completed cybersecurity quiz with score: 6",
+    "Timestamp": "2025-06-26T23:37:16.7449766+02:00",
+    "UserName": "John",
+    "Category": "Quiz"
+  },
+  {
+    "Id": "59a01ba9-41d0-4e4b-9a38-154d2e29b78e",
+    "Action": "User Login",
+    "Description": "User \u0027John\u0027 started a new session",
+    "Timestamp": "2025-06-26T23:44:37.8932356+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "85cc12c8-d12f-488f-a72e-55893f8abf34",
+    "Action": "User Login",
+    "Description": "User \u0027John\u0027 started a new session",
+    "Timestamp": "2025-06-26T23:45:45.7169712+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "f58dd932-58d9-45d6-8281-7766b9011722",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: phishing",
+    "Timestamp": "2025-06-26T23:45:52.1508221+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "6bcd4813-6bc0-4a1d-9ba0-cb3c4585c899",
+    "Action": "User Login",
+    "Description": "User \u0027JOhn\u0027 started a new session",
+    "Timestamp": "2025-06-26T23:48:05.849976+02:00",
+    "UserName": "JOhn",
+    "Category": "General"
+  },
+  {
+    "Id": "6366d2da-8c13-49e9-a22f-e92196c6a8a5",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: phishing",
+    "Timestamp": "2025-06-26T23:48:26.4063516+02:00",
+    "UserName": "JOhn",
+    "Category": "General"
+  },
+  {
+    "Id": "8832a77d-8bd1-48be-8b84-62ddb2a80723",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:34:02.6971112+02:00",
+    "UserName": "JOhn",
+    "Category": "General"
+  },
+  {
+    "Id": "c424ae01-bc0f-488f-a72c-49b9b424365c",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:34:19.9927948+02:00",
+    "UserName": "JOhn",
+    "Category": "General"
+  },
+  {
+    "Id": "97c7c72f-196b-4f64-ac0f-1f986badd5db",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:34:24.6604143+02:00",
+    "UserName": "JOhn",
+    "Category": "General"
+  },
+  {
+    "Id": "8d868f23-c177-4fa4-827b-7bd87afc3bee",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:34:31.3754261+02:00",
+    "UserName": "JOhn",
+    "Category": "General"
+  },
+  {
+    "Id": "5b3aa4ef-810f-4b0d-92a5-6c6718312f34",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:37:00.4973112+02:00",
+    "UserName": "vpn",
+    "Category": "General"
+  },
+  {
+    "Id": "3ba7863f-45b6-453c-8f94-ec6c4121dde8",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:37:05.878471+02:00",
+    "UserName": "vpn",
+    "Category": "General"
+  },
+  {
+    "Id": "2420b81e-18a4-46e2-a193-7e44ec0d913e",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: password",
+    "Timestamp": "2025-06-27T00:37:13.6652714+02:00",
+    "UserName": "vpn",
+    "Category": "General"
+  },
+  {
+    "Id": "1707a910-eaf3-4d2a-9ee6-0e91883a9cfd",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: password",
+    "Timestamp": "2025-06-27T00:37:22.2544803+02:00",
+    "UserName": "vpn",
+    "Category": "General"
+  },
+  {
+    "Id": "334b5d38-93e6-46ac-b608-43f918753a43",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:38:15.8552324+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "74a6a507-5abc-44dc-ab71-f6e27455c7f1",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:38:20.293263+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "fd3070b1-6ecf-4a51-97c2-5fd883464692",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: password",
+    "Timestamp": "2025-06-27T00:38:25.9189233+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "667e34ec-205a-49f9-89bd-8db8f9a8b5f4",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: password",
+    "Timestamp": "2025-06-27T00:40:54.3854945+02:00",
+    "UserName": "Vpn",
+    "Category": "General"
+  },
+  {
+    "Id": "5ab0b735-b34c-4a32-a035-ff8c5dcb2157",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: password",
+    "Timestamp": "2025-06-27T00:41:00.8395287+02:00",
+    "UserName": "Vpn",
+    "Category": "General"
+  },
+  {
+    "Id": "ab4a246d-371d-46b2-a345-1022275327b8",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:43:32.4463108+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "4138b416-75b5-4715-a8c8-849aab5239df",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:43:47.7661123+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "cdcdbdf0-5550-4ea9-838d-805fc44f7898",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:46:32.8952836+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "0f338715-3071-4af3-9ece-5944a89ce14e",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:47:56.8639207+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "eb92a899-4d97-477b-9d13-bb7b2e08d448",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:49:33.8423121+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "1344fcad-7055-4c7c-92c2-ab86a8568cb7",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:51:51.488545+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "20720810-31a0-475c-bc33-d4f4d6b5627c",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:51:57.4914166+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "6bb072b4-6b5f-4cd5-90eb-f1baf8c60dfe",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: password",
+    "Timestamp": "2025-06-27T00:52:04.184872+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "06628548-8d46-4830-9d12-99e1de05faff",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:52:51.7160507+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "9e10f176-7fe1-4cdf-b8e6-7a8084398c50",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:52:55.6909507+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "1ba65ab5-3070-453c-a25a-934a397ca7f5",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T00:55:01.6052422+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "76fafc7f-0abf-473d-b295-e414e5e89b76",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: password",
+    "Timestamp": "2025-06-27T00:55:10.5433135+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "7ca41c6c-6979-486c-b5ee-8de15924278d",
+    "Action": "Task Created",
+    "Description": "Created task: change my password in 7 days",
+    "Timestamp": "2025-06-27T00:56:57.7055472+02:00",
+    "UserName": "john",
+    "Category": "Task"
+  },
+  {
+    "Id": "fe866760-217c-4739-a9f0-6da4164530a7",
+    "Action": "Reminder Set",
+    "Description": "Set reminder for \u0027change my password in 7 days\u0027 on Jul 04, 2025 at 00:56",
+    "Timestamp": "2025-06-27T00:56:57.7127226+02:00",
+    "UserName": "john",
+    "Category": "Reminder"
+  },
+  {
+    "Id": "4461e81c-cac5-48a4-a051-b671af86c89d",
+    "Action": "Task Created",
+    "Description": "Created task: change my password in 7 days",
+    "Timestamp": "2025-06-27T00:56:57.7240581+02:00",
+    "UserName": "john",
+    "Category": "Task"
+  },
+  {
+    "Id": "6b278ccb-84ba-49f7-a248-0e0d4c928d22",
+    "Action": "All Tasks Removed",
+    "Description": "Removed all 9 tasks",
+    "Timestamp": "2025-06-27T01:00:16.3194994+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "c195c328-41c8-4c9c-969c-d947c430e48e",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: vpn",
+    "Timestamp": "2025-06-27T12:37:02.6132493+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "970ce56c-c7b6-4b86-a934-2629f4dd7c30",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: password",
+    "Timestamp": "2025-06-27T12:37:19.9471923+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "6dfab113-6aeb-435d-8c1f-760eb6b8bb41",
+    "Action": "Task Created",
+    "Description": "Created task: channge my number in 3 days",
+    "Timestamp": "2025-06-27T12:37:57.2531412+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "e5ac4b1d-42ee-4a02-95a0-30339c4c52a9",
+    "Action": "Reminder Set",
+    "Description": "Set reminder for \u0027channge my number in 3 days\u0027 on Jun 30, 2025 at 12:37",
+    "Timestamp": "2025-06-27T12:37:57.2546878+02:00",
+    "UserName": "John",
+    "Category": "Reminder"
+  },
+  {
+    "Id": "f1919970-639a-4c6b-8ec8-3555046550cc",
+    "Action": "Task Created",
+    "Description": "Created task: channge my number in 3 days",
+    "Timestamp": "2025-06-27T12:37:57.2782574+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "7654a057-1d3d-4c62-a661-294629c27c90",
+    "Action": "All Tasks Removed",
+    "Description": "Removed all 1 tasks",
+    "Timestamp": "2025-06-27T12:41:55.4542589+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "6fd72d34-455c-416c-986a-020b2ec413e2",
+    "Action": "Task Created",
+    "Description": "Created task: change my pasword in 3 days",
+    "Timestamp": "2025-06-27T12:42:11.8819948+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "413c25d2-d387-464d-ae74-6d36febca2e5",
+    "Action": "Reminder Set",
+    "Description": "Set reminder for \u0027change my pasword in 3 days\u0027 on Jun 30, 2025 at 12:42",
+    "Timestamp": "2025-06-27T12:42:11.8877717+02:00",
+    "UserName": "John",
+    "Category": "Reminder"
+  },
+  {
+    "Id": "488b7b7f-0932-4616-9cb6-59ea01206cf5",
+    "Action": "Task Created",
+    "Description": "Created task: change my pasword in 3 days",
+    "Timestamp": "2025-06-27T12:42:11.9078936+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "58579f56-065f-494d-bf83-313763755549",
+    "Action": "Task Created",
+    "Description": "Created task: update my email",
+    "Timestamp": "2025-06-27T12:42:30.3297696+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "f5777495-1b65-463e-9d8b-ccfe60a1f61a",
+    "Action": "Reminder Set",
+    "Description": "Set reminder for \u0027update my email\u0027 on Jun 27, 2025 at 14:42",
+    "Timestamp": "2025-06-27T12:42:30.3301514+02:00",
+    "UserName": "John",
+    "Category": "Reminder"
+  },
+  {
+    "Id": "745c9e4f-5dfc-48b7-bf7e-336eaf44c30b",
+    "Action": "Task Created",
+    "Description": "Created task: update my email",
+    "Timestamp": "2025-06-27T12:42:30.3524443+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "2b533fe5-f840-49d6-b409-7145faa81905",
+    "Action": "Task Deleted",
+    "Description": "Deleted task: update my email",
+    "Timestamp": "2025-06-27T12:44:56.5598626+02:00",
+    "UserName": "john",
+    "Category": "Task"
+  },
+  {
+    "Id": "cd6c6ada-2bab-4a5a-91d4-7aadc3aefb97",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: password",
+    "Timestamp": "2025-06-27T12:45:22.316627+02:00",
+    "UserName": "john",
+    "Category": "General"
+  },
+  {
+    "Id": "82735c0f-a3ba-4ab2-aec2-3bdec88c7240",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: password",
+    "Timestamp": "2025-06-27T12:45:41.4498515+02:00",
+    "UserName": "john",
+    "Category": "General"
+  },
+  {
+    "Id": "15868d3b-2470-4b54-b901-d3ba5edf335b",
+    "Action": "Task Completed",
+    "Description": "Marked task as completed: change my pasword in 3 days",
+    "Timestamp": "2025-06-27T12:48:14.1877468+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "66168f3b-becc-4512-9767-49509e8854d1",
+    "Action": "All Tasks Removed",
+    "Description": "Removed all 1 tasks",
+    "Timestamp": "2025-06-27T12:48:32.6584429+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "388269e4-ee88-4056-9463-ebcdbd7ef99a",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: password",
+    "Timestamp": "2025-06-27T12:51:49.8041917+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "18d90c46-8d39-4059-9edf-21747f6593b5",
+    "Action": "Task Created",
+    "Description": "Created task: change my password in 7 days",
+    "Timestamp": "2025-06-27T12:52:11.5914822+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "e39f4440-fdf5-471b-8f5e-a77861425093",
+    "Action": "Reminder Set",
+    "Description": "Set reminder for \u0027change my password in 7 days\u0027 on Jul 04, 2025 at 12:52",
+    "Timestamp": "2025-06-27T12:52:11.5972821+02:00",
+    "UserName": "John",
+    "Category": "Reminder"
+  },
+  {
+    "Id": "f626d90c-77d3-49da-a7dc-c9aadc705a22",
+    "Action": "Task Created",
+    "Description": "Created task: change my password in 7 days",
+    "Timestamp": "2025-06-27T12:52:11.614709+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "d1633591-18a0-4c04-b1f4-fbf3b9ab728c",
+    "Action": "Task Completed",
+    "Description": "Marked task as completed: change my password in 7 days",
+    "Timestamp": "2025-06-27T12:52:36.3128522+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "690faf67-afc4-43e4-b4dc-a7f2d0638d3b",
+    "Action": "All Tasks Removed",
+    "Description": "Removed all 1 tasks",
+    "Timestamp": "2025-06-27T12:52:54.3420269+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "6cfe048c-d610-45c8-ace1-3b6e9bac3ca5",
+    "Action": "Quiz Started",
+    "Description": "Started cybersecurity quiz",
+    "Timestamp": "2025-06-27T12:53:17.4689057+02:00",
+    "UserName": "John",
+    "Category": "Quiz"
+  },
+  {
+    "Id": "1d380d69-f273-4afc-9aa1-3ec4648fc0b0",
+    "Action": "Quiz Completed",
+    "Description": "Completed cybersecurity quiz with score: 3",
+    "Timestamp": "2025-06-27T12:53:51.7449007+02:00",
+    "UserName": "John",
+    "Category": "Quiz"
+  },
+  {
+    "Id": "9649e9bd-6d97-4432-81e8-5bff7bb27b37",
+    "Action": "Topic Discussed",
+    "Description": "Discussed cybersecurity topic: password",
+    "Timestamp": "2025-06-27T13:35:55.0649049+02:00",
+    "UserName": "John",
+    "Category": "General"
+  },
+  {
+    "Id": "035786da-596c-4afa-991c-9d14d4094747",
+    "Action": "Task Created",
+    "Description": "Created task: delete my email",
+    "Timestamp": "2025-06-27T13:36:21.1868653+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "e37eba61-5e43-4890-b676-1b0ece3a8623",
+    "Action": "Reminder Set",
+    "Description": "Set reminder for \u0027delete my email\u0027 on Jun 28, 2025 at 13:36",
+    "Timestamp": "2025-06-27T13:36:21.1939592+02:00",
+    "UserName": "John",
+    "Category": "Reminder"
+  },
+  {
+    "Id": "f494c9e6-b7b1-459f-a813-b40a8197ccfc",
+    "Action": "Task Created",
+    "Description": "Created task: delete my email",
+    "Timestamp": "2025-06-27T13:36:21.2062059+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "171d05db-6d4b-4024-aae1-c8a907422340",
+    "Action": "Task Completed",
+    "Description": "Marked task as completed: delete my email",
+    "Timestamp": "2025-06-27T13:37:08.5657554+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "5c4e9732-b54b-4a89-85a1-fc63857d8886",
+    "Action": "All Tasks Removed",
+    "Description": "Removed all 1 tasks",
+    "Timestamp": "2025-06-27T13:38:30.5145987+02:00",
+    "UserName": "John",
+    "Category": "Task"
+  },
+  {
+    "Id": "289f3515-870b-4ec9-bfee-8e9637f7e72b",
+    "Action": "Quiz Started",
+    "Description": "Started cybersecurity quiz",
+    "Timestamp": "2025-06-27T13:38:42.8080775+02:00",
+    "UserName": "John",
+    "Category": "Quiz"
+  },
+  {
+    "Id": "dac7e2b2-e514-46fc-bf36-5052e644235d",
+    "Action": "Quiz Completed",
+    "Description": "Completed cybersecurity quiz with score: 7",
+    "Timestamp": "2025-06-27T13:39:10.9703842+02:00",
+    "UserName": "John",
+    "Category": "Quiz"
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pharm\\source\\repos\\ChatbotForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD25D0F-CD74-486E-96BA-5C47D1FD729B}|ChatbotForm\\ChatbotForm.csproj|c:\\users\\pharm\\source\\repos\\chatbotform\\chatbotform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD25D0F-CD74-486E-96BA-5C47D1FD729B}|ChatbotForm\\ChatbotForm.csproj|solutionrelative:chatbotform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD25D0F-CD74-486E-96BA-5C47D1FD729B}|ChatbotForm\\ChatbotForm.csproj|c:\\users\\pharm\\source\\repos\\chatbotform\\chatbotform\\part3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD25D0F-CD74-486E-96BA-5C47D1FD729B}|ChatbotForm\\ChatbotForm.csproj|solutionrelative:chatbotform\\part3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD25D0F-CD74-486E-96BA-5C47D1FD729B}|ChatbotForm\\ChatbotForm.csproj|c:\\users\\pharm\\source\\repos\\chatbotform\\chatbotform\\part3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD25D0F-CD74-486E-96BA-5C47D1FD729B}|ChatbotForm\\ChatbotForm.csproj|solutionrelative:chatbotform\\part3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pharm\\source\\repos\\ChatbotForm\\ChatbotForm\\Part3\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatbotForm\\Part3\\Form1.cs",
+              "ToolTip": "C:\\Users\\pharm\\source\\repos\\ChatbotForm\\ChatbotForm\\Part3\\Form1.cs",
+              "RelativeToolTip": "ChatbotForm\\Part3\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:19:44.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pharm\\source\\repos\\ChatbotForm\\ChatbotForm\\Program.cs",
+              "RelativeDocumentMoniker": "ChatbotForm\\Program.cs",
+              "ToolTip": "C:\\Users\\pharm\\source\\repos\\ChatbotForm\\ChatbotForm\\Program.cs",
+              "RelativeToolTip": "ChatbotForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:19:22.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pharm\\source\\repos\\ChatbotForm\\ChatbotForm\\Part3\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatbotForm\\Part3\\Form1.cs",
+              "ToolTip": "C:\\Users\\pharm\\source\\repos\\ChatbotForm\\ChatbotForm\\Part3\\Form1.cs [Design]",
+              "RelativeToolTip": "ChatbotForm\\Part3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:19:10.792Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

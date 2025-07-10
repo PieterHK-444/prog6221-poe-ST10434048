@@ -1,0 +1,16 @@
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\bin\Debug\net8.0-windows\ChatbotForm.exe
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\bin\Debug\net8.0-windows\ChatbotForm.deps.json
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\bin\Debug\net8.0-windows\ChatbotForm.runtimeconfig.json
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\bin\Debug\net8.0-windows\ChatbotForm.dll
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\bin\Debug\net8.0-windows\ChatbotForm.pdb
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\obj\Debug\net8.0-windows\ChatbotForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\obj\Debug\net8.0-windows\ChatbotForm.AssemblyInfoInputs.cache
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\obj\Debug\net8.0-windows\ChatbotForm.AssemblyInfo.cs
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\obj\Debug\net8.0-windows\ChatbotForm.csproj.CoreCompileInputs.cache
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\obj\Debug\net8.0-windows\ChatbotForm.dll
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\obj\Debug\net8.0-windows\refint\ChatbotForm.dll
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\obj\Debug\net8.0-windows\ChatbotForm.pdb
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\obj\Debug\net8.0-windows\ChatbotForm.genruntimeconfig.cache
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\obj\Debug\net8.0-windows\ref\ChatbotForm.dll
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\bin\Debug\net8.0-windows\Sounds\Welcome.wav
+C:\Users\pharm\source\repos\ChatbotForm\ChatbotForm\bin\Debug\net8.0-windows\pictures\chat-icon.ico

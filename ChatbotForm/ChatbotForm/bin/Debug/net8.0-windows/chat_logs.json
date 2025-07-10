@@ -1,0 +1,2378 @@
+[
+  {
+    "Id": "08869a55-1418-4634-be91-f7453e0831fb",
+    "Sender": "User",
+    "Message": "John",
+    "Timestamp": "2025-06-26T23:25:02.7100092+02:00",
+    "SessionId": "e71c0f55-278b-4b26-999e-16eeb7f7edb5",
+    "Topic": null
+  },
+  {
+    "Id": "58806a5c-4b49-469a-88f1-e1701e32c426",
+    "Sender": "Bot",
+    "Message": "Glad to meet you John! Setting up your personalized experience...",
+    "Timestamp": "2025-06-26T23:25:02.7186288+02:00",
+    "SessionId": "e71c0f55-278b-4b26-999e-16eeb7f7edb5",
+    "Topic": null
+  },
+  {
+    "Id": "f8947470-8b53-49f3-b468-bfabbbd5e5de",
+    "Sender": "Bot",
+    "Message": "Setup complete! I\u0027m ready to help you learn about cybersecurity, John!",
+    "Timestamp": "2025-06-26T23:25:04.0344621+02:00",
+    "SessionId": "e71c0f55-278b-4b26-999e-16eeb7f7edb5",
+    "Topic": null
+  },
+  {
+    "Id": "14a3a859-95a3-40ba-ba4b-69a264ee5f10",
+    "Sender": "Bot",
+    "Message": "You can ask me about various cybersecurity topics. Try asking about passwords, phishing, malware, or type \u0027help\u0027 to see all available topics.",
+    "Timestamp": "2025-06-26T23:25:04.0378841+02:00",
+    "SessionId": "e71c0f55-278b-4b26-999e-16eeb7f7edb5",
+    "Topic": null
+  },
+  {
+    "Id": "ab58b4cd-4e49-45a8-bced-7bc1ed52b1d9",
+    "Sender": "User",
+    "Message": "show chat logs",
+    "Timestamp": "2025-06-26T23:25:20.159375+02:00",
+    "SessionId": "e71c0f55-278b-4b26-999e-16eeb7f7edb5",
+    "Topic": null
+  },
+  {
+    "Id": "16e254c5-5b06-48c8-800b-b54f4dfeee5e",
+    "Sender": "Bot",
+    "Message": "Displayed All Chat Logs: 5 messages found",
+    "Timestamp": "2025-06-26T23:25:21.4967303+02:00",
+    "SessionId": "e71c0f55-278b-4b26-999e-16eeb7f7edb5",
+    "Topic": "chat"
+  },
+  {
+    "Id": "02eec6ce-8100-4a81-902d-3c21aa463f6b",
+    "Sender": "User",
+    "Message": "John",
+    "Timestamp": "2025-06-26T23:36:26.4442192+02:00",
+    "SessionId": "2b716991-a630-4203-a8e7-05f23d8dd852",
+    "Topic": null
+  },
+  {
+    "Id": "c0793e8d-d23b-48af-83a8-42896c8bf7d1",
+    "Sender": "Bot",
+    "Message": "Glad to meet you John! Setting up your personalized experience...",
+    "Timestamp": "2025-06-26T23:36:26.4553193+02:00",
+    "SessionId": "2b716991-a630-4203-a8e7-05f23d8dd852",
+    "Topic": null
+  },
+  {
+    "Id": "002414dc-ef77-4a96-b42b-57275550ce0b",
+    "Sender": "Bot",
+    "Message": "Setup complete! I\u0027m ready to help you learn about cybersecurity, John!",
+    "Timestamp": "2025-06-26T23:36:27.7841599+02:00",
+    "SessionId": "2b716991-a630-4203-a8e7-05f23d8dd852",
+    "Topic": null
+  },
+  {
+    "Id": "d1a98ef2-d437-4826-8ca3-d6c8bbb9d6b7",
+    "Sender": "Bot",
+    "Message": "You can ask me about various cybersecurity topics. Try asking about passwords, phishing, malware, or type \u0027help\u0027 to see all available topics.",
+    "Timestamp": "2025-06-26T23:36:27.7862162+02:00",
+    "SessionId": "2b716991-a630-4203-a8e7-05f23d8dd852",
+    "Topic": null
+  },
+  {
+    "Id": "eb9f6623-12d0-4192-a4dd-08378a739c1b",
+    "Sender": "User",
+    "Message": "start quiz",
+    "Timestamp": "2025-06-26T23:36:37.8121491+02:00",
+    "SessionId": "2b716991-a630-4203-a8e7-05f23d8dd852",
+    "Topic": null
+  },
+  {
+    "Id": "c9344e06-820d-4546-a44a-36e738f58191",
+    "Sender": "Bot",
+    "Message": "Started cybersecurity quiz",
+    "Timestamp": "2025-06-26T23:36:39.1622423+02:00",
+    "SessionId": "2b716991-a630-4203-a8e7-05f23d8dd852",
+    "Topic": "quiz"
+  },
+  {
+    "Id": "57fe13fd-0d79-45a7-a665-c3ee493dd9b7",
+    "Sender": "Bot",
+    "Message": "Completed cybersecurity quiz with score: 6/10",
+    "Timestamp": "2025-06-26T23:37:16.7429746+02:00",
+    "SessionId": "2b716991-a630-4203-a8e7-05f23d8dd852",
+    "Topic": "quiz"
+  },
+  {
+    "Id": "da7a37a5-5b20-4ede-937b-e734203db9eb",
+    "Sender": "User",
+    "Message": "John",
+    "Timestamp": "2025-06-26T23:44:37.8844232+02:00",
+    "SessionId": "3c370074-80d5-4bf7-b4d9-144c703d9603",
+    "Topic": null
+  },
+  {
+    "Id": "100210bf-7d36-408f-8529-069446574ec7",
+    "Sender": "Bot",
+    "Message": "Glad to meet you John! Setting up your personalized experience...",
+    "Timestamp": "2025-06-26T23:44:37.8957685+02:00",
+    "SessionId": "3c370074-80d5-4bf7-b4d9-144c703d9603",
+    "Topic": null
+  },
+  {
+    "Id": "75b20925-16c8-4db2-a575-0f979474f379",
+    "Sender": "Bot",
+    "Message": "Setup complete! I\u0027m ready to help you learn about cybersecurity, John!",
+    "Timestamp": "2025-06-26T23:44:39.210679+02:00",
+    "SessionId": "3c370074-80d5-4bf7-b4d9-144c703d9603",
+    "Topic": null
+  },
+  {
+    "Id": "ef7c9e9f-1823-4f7a-9857-efcab60d7f84",
+    "Sender": "Bot",
+    "Message": "You can ask me about various cybersecurity topics. Try asking about passwords, phishing, malware, or type \u0027help\u0027 to see all available topics.",
+    "Timestamp": "2025-06-26T23:44:39.2126349+02:00",
+    "SessionId": "3c370074-80d5-4bf7-b4d9-144c703d9603",
+    "Topic": null
+  },
+  {
+    "Id": "eb728cce-f74f-4331-b66a-9164a2871897",
+    "Sender": "User",
+    "Message": "What should I know about phishing attacks?",
+    "Timestamp": "2025-06-26T23:45:25.6530767+02:00",
+    "SessionId": "3c370074-80d5-4bf7-b4d9-144c703d9603",
+    "Topic": null
+  },
+  {
+    "Id": "4f48fb43-cfdf-456b-b27d-5c54b8570a8b",
+    "Sender": "Bot",
+    "Message": "Thank you for using the Cybersecurity Awareness Bot. Stay safe online!",
+    "Timestamp": "2025-06-26T23:45:25.6741166+02:00",
+    "SessionId": "3c370074-80d5-4bf7-b4d9-144c703d9603",
+    "Topic": null
+  },
+  {
+    "Id": "65fd76aa-322f-4b5f-8313-9030c6456315",
+    "Sender": "User",
+    "Message": "John",
+    "Timestamp": "2025-06-26T23:45:45.7086767+02:00",
+    "SessionId": "507c50c4-721f-4edf-8fe6-60535234dbe5",
+    "Topic": null
+  },
+  {
+    "Id": "be842b4d-1dc5-41a8-9ed4-77b5cd08ad39",
+    "Sender": "Bot",
+    "Message": "Glad to meet you John! Setting up your personalized experience...",
+    "Timestamp": "2025-06-26T23:45:45.7206258+02:00",
+    "SessionId": "507c50c4-721f-4edf-8fe6-60535234dbe5",
+    "Topic": null
+  },
+  {
+    "Id": "5ffc3b71-40e8-4b7d-9e20-453b97cd130e",
+    "Sender": "Bot",
+    "Message": "Setup complete! I\u0027m ready to help you learn about cybersecurity, John!",
+    "Timestamp": "2025-06-26T23:45:47.0345792+02:00",
+    "SessionId": "507c50c4-721f-4edf-8fe6-60535234dbe5",
+    "Topic": null
+  },
+  {
+    "Id": "c8cc65db-7a20-4de6-80a5-2d9c7faa4ae7",
+    "Sender": "Bot",
+    "Message": "You can ask me about various cybersecurity topics. Try asking about passwords, phishing, malware, or type \u0027help\u0027 to see all available topics.",
+    "Timestamp": "2025-06-26T23:45:47.0373977+02:00",
+    "SessionId": "507c50c4-721f-4edf-8fe6-60535234dbe5",
+    "Topic": null
+  },
+  {
+    "Id": "eecec366-f585-4ce4-aed7-6807896831b7",
+    "Sender": "User",
+    "Message": "phishing",
+    "Timestamp": "2025-06-26T23:45:50.7957853+02:00",
+    "SessionId": "507c50c4-721f-4edf-8fe6-60535234dbe5",
+    "Topic": null
+  },
+  {
+    "Id": "3b1a35b8-0755-4861-884d-34ea004b4089",
+    "Sender": "Bot",
+    "Message": "Phishing is a cyberattack where attackers impersonate trusted entities to deceive individuals into revealing sensitive information, such as login credentials or financial details. These attacks often use emails, texts, or fake websites and rely on social engineering techniques to exploit human psychology.",
+    "Timestamp": "2025-06-26T23:45:52.1501437+02:00",
+    "SessionId": "507c50c4-721f-4edf-8fe6-60535234dbe5",
+    "Topic": "phishing"
+  },
+  {
+    "Id": "ee59efa7-4717-42f5-ab51-677a6789a596",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure what specific aspect of phishing you\u0027re asking about. You can ask for more information, examples, how to implement it, or what to avoid.",
+    "Timestamp": "2025-06-26T23:45:52.1532339+02:00",
+    "SessionId": "507c50c4-721f-4edf-8fe6-60535234dbe5",
+    "Topic": "phishing"
+  },
+  {
+    "Id": "2b54c2c7-824d-403d-a0f0-8ee13401bbdc",
+    "Sender": "User",
+    "Message": "What should I know about phishing",
+    "Timestamp": "2025-06-26T23:46:06.1337791+02:00",
+    "SessionId": "507c50c4-721f-4edf-8fe6-60535234dbe5",
+    "Topic": null
+  },
+  {
+    "Id": "d5bf31c0-68cc-461f-8d7a-952be23aa8e2",
+    "Sender": "Bot",
+    "Message": "Thank you for using the Cybersecurity Awareness Bot. Stay safe online!",
+    "Timestamp": "2025-06-26T23:46:06.1473435+02:00",
+    "SessionId": "507c50c4-721f-4edf-8fe6-60535234dbe5",
+    "Topic": null
+  },
+  {
+    "Id": "9f02b976-d513-4545-8ee0-85979ba4d24c",
+    "Sender": "User",
+    "Message": "JOhn",
+    "Timestamp": "2025-06-26T23:48:05.8375956+02:00",
+    "SessionId": "3e213ef0-7842-4a89-8502-e9fc6dea3db6",
+    "Topic": null
+  },
+  {
+    "Id": "1cc533a9-f7f7-4031-9778-504badf957b6",
+    "Sender": "Bot",
+    "Message": "Glad to meet you JOhn! Setting up your personalized experience...",
+    "Timestamp": "2025-06-26T23:48:05.8525969+02:00",
+    "SessionId": "3e213ef0-7842-4a89-8502-e9fc6dea3db6",
+    "Topic": null
+  },
+  {
+    "Id": "772c2ecc-1bf1-4c61-9fe6-be25fa5c34f9",
+    "Sender": "Bot",
+    "Message": "Setup complete! I\u0027m ready to help you learn about cybersecurity, JOhn!",
+    "Timestamp": "2025-06-26T23:48:07.1740377+02:00",
+    "SessionId": "3e213ef0-7842-4a89-8502-e9fc6dea3db6",
+    "Topic": null
+  },
+  {
+    "Id": "6a1e8784-1452-42d0-b3f6-16e18c98880a",
+    "Sender": "Bot",
+    "Message": "You can ask me about various cybersecurity topics. Try asking about passwords, phishing, malware, or type \u0027help\u0027 to see all available topics.",
+    "Timestamp": "2025-06-26T23:48:07.1770275+02:00",
+    "SessionId": "3e213ef0-7842-4a89-8502-e9fc6dea3db6",
+    "Topic": null
+  },
+  {
+    "Id": "44ba3087-b96d-4575-aa7b-7f079033fd38",
+    "Sender": "User",
+    "Message": "know",
+    "Timestamp": "2025-06-26T23:48:14.1627586+02:00",
+    "SessionId": "3e213ef0-7842-4a89-8502-e9fc6dea3db6",
+    "Topic": null
+  },
+  {
+    "Id": "38f85f03-053d-4d8c-822b-7b20c5372865",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure I understand that question. You can ask me about cybersecurity topics like password safety, phishing, malware, and more. Type \u0027help\u0027 to see all topics I can help with.",
+    "Timestamp": "2025-06-26T23:48:14.1893069+02:00",
+    "SessionId": "3e213ef0-7842-4a89-8502-e9fc6dea3db6",
+    "Topic": null
+  },
+  {
+    "Id": "8b6bfe05-b9d3-4575-93c6-4a8cb2719332",
+    "Sender": "Bot",
+    "Message": "\uD83D\uDCA1 Tip: I can also help you manage security tasks! Try \u0027task help\u0027 to see available commands.",
+    "Timestamp": "2025-06-26T23:48:14.1910218+02:00",
+    "SessionId": "3e213ef0-7842-4a89-8502-e9fc6dea3db6",
+    "Topic": null
+  },
+  {
+    "Id": "f3349959-2c5b-4db1-9dcc-52539081ec54",
+    "Sender": "User",
+    "Message": "Know about Phishing",
+    "Timestamp": "2025-06-26T23:48:25.0617229+02:00",
+    "SessionId": "3e213ef0-7842-4a89-8502-e9fc6dea3db6",
+    "Topic": null
+  },
+  {
+    "Id": "f7c8234f-7f8a-4624-a916-e1019c09d318",
+    "Sender": "Bot",
+    "Message": "Phishing is a cyberattack where attackers impersonate trusted entities to deceive individuals into revealing sensitive information, such as login credentials or financial details. These attacks often use emails, texts, or fake websites and rely on social engineering techniques to exploit human psychology.",
+    "Timestamp": "2025-06-26T23:48:26.4054089+02:00",
+    "SessionId": "3e213ef0-7842-4a89-8502-e9fc6dea3db6",
+    "Topic": "phishing"
+  },
+  {
+    "Id": "a7af65c2-fda7-4ceb-a9da-9b4ddbbf4b95",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure what specific aspect of phishing you\u0027re asking about. You can ask for more information, examples, how to implement it, or what to avoid.",
+    "Timestamp": "2025-06-26T23:48:26.4138584+02:00",
+    "SessionId": "3e213ef0-7842-4a89-8502-e9fc6dea3db6",
+    "Topic": "phishing"
+  },
+  {
+    "Id": "ede2954d-ef9b-41c7-ac66-71956a5e628d",
+    "Sender": "Bot",
+    "Message": "Setup complete! I\u0027m ready to help you learn about cybersecurity, John!",
+    "Timestamp": "2025-06-27T00:02:51.1026103+02:00",
+    "SessionId": "7bec6ba7-ae5c-4cdd-bffa-d588c949be79",
+    "Topic": null
+  },
+  {
+    "Id": "3014cd0b-8fd8-4ba4-b474-2d5b6540b056",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:05:13.6937595+02:00",
+    "SessionId": "95bc9ee6-080f-4e84-8215-982845098f63",
+    "Topic": null
+  },
+  {
+    "Id": "248a5210-1989-4a47-ad49-c37faeea1b07",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:08:28.4050966+02:00",
+    "SessionId": "f67b12a9-9a74-4974-a49b-41bd9b0e377c",
+    "Topic": null
+  },
+  {
+    "Id": "36ec2d48-2c4f-44c9-8f0f-85216915f8af",
+    "Sender": "Bot",
+    "Message": "Welcome, john! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:09:32.5176915+02:00",
+    "SessionId": "9dac693b-6857-4d93-8d7a-14596b57d60b",
+    "Topic": null
+  },
+  {
+    "Id": "2ec085a3-10e1-41c8-80dd-6773abb1b49d",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T00:11:36.4664396+02:00",
+    "SessionId": "b2ea586d-1bf7-4c0c-a591-24ffc97b5fcd",
+    "Topic": null
+  },
+  {
+    "Id": "d1854e83-a3be-4ddd-974c-e9ca82883e6a",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T00:12:26.0237384+02:00",
+    "SessionId": "af4b72c0-69f3-439d-ae49-ceea8a5c39d8",
+    "Topic": null
+  },
+  {
+    "Id": "fb483acf-11d9-48da-82eb-1a796ae50ccc",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:14:28.5755702+02:00",
+    "SessionId": "b107d68c-e35c-4876-983c-0603b9c4d7c4",
+    "Topic": null
+  },
+  {
+    "Id": "1a362da2-31da-4dd4-b285-cc9fe739c7dc",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:21:40.9302675+02:00",
+    "SessionId": "43c9881f-b16a-42a0-9552-748f5dc2574f",
+    "Topic": null
+  },
+  {
+    "Id": "99f24172-4ede-4ba6-8554-25c1ac8bf142",
+    "Sender": "Bot",
+    "Message": "Welcome, JOhn! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:22:48.5419643+02:00",
+    "SessionId": "5f79c5b0-e82a-42b7-8995-37c5042bae7a",
+    "Topic": null
+  },
+  {
+    "Id": "f2e7508d-89b2-4b60-8da4-9a9bc1616da7",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:25:12.7715945+02:00",
+    "SessionId": "0c30f498-3316-4028-8414-baa35ebd0315",
+    "Topic": null
+  },
+  {
+    "Id": "7c9f045f-968a-4096-8b3e-11d94db5f17a",
+    "Sender": "Bot",
+    "Message": "Welcome, JOhn! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:33:56.3050086+02:00",
+    "SessionId": "ebe2f82c-f4c1-4b94-a70f-e6584ac4cce4",
+    "Topic": null
+  },
+  {
+    "Id": "760f141b-19a4-41f9-9053-8e8ae06ac511",
+    "Sender": "User",
+    "Message": "vpn",
+    "Timestamp": "2025-06-27T00:34:01.9865362+02:00",
+    "SessionId": "ebe2f82c-f4c1-4b94-a70f-e6584ac4cce4",
+    "Topic": null
+  },
+  {
+    "Id": "47db4c66-79e3-4810-8ae9-f62f60ea623a",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:34:02.6940092+02:00",
+    "SessionId": "ebe2f82c-f4c1-4b94-a70f-e6584ac4cce4",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "f9c57d1d-d14b-4614-96f0-e764d0c0dda1",
+    "Sender": "User",
+    "Message": "some tips",
+    "Timestamp": "2025-06-27T00:34:09.666321+02:00",
+    "SessionId": "ebe2f82c-f4c1-4b94-a70f-e6584ac4cce4",
+    "Topic": null
+  },
+  {
+    "Id": "687aeb31-c83c-4b7c-8d96-d3758c91ba3e",
+    "Sender": "Bot",
+    "Message": "I can help you learn about general. What specific aspect would you like to know more about?",
+    "Timestamp": "2025-06-27T00:34:09.6700384+02:00",
+    "SessionId": "ebe2f82c-f4c1-4b94-a70f-e6584ac4cce4",
+    "Topic": "general"
+  },
+  {
+    "Id": "6df7b076-639a-4ff7-ac59-40b66c3c870f",
+    "Sender": "User",
+    "Message": "vpn tips",
+    "Timestamp": "2025-06-27T00:34:19.2748139+02:00",
+    "SessionId": "ebe2f82c-f4c1-4b94-a70f-e6584ac4cce4",
+    "Topic": null
+  },
+  {
+    "Id": "7e8dc3a2-2746-4554-b80f-d2a295cd4409",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:34:19.9920604+02:00",
+    "SessionId": "ebe2f82c-f4c1-4b94-a70f-e6584ac4cce4",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "9c9aa689-c2d9-4a6a-9783-5ea7f2f5127e",
+    "Sender": "User",
+    "Message": "vpn tips",
+    "Timestamp": "2025-06-27T00:34:23.9397891+02:00",
+    "SessionId": "ebe2f82c-f4c1-4b94-a70f-e6584ac4cce4",
+    "Topic": null
+  },
+  {
+    "Id": "f4c95795-f408-4596-b096-b7b40820c87e",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:34:24.6593558+02:00",
+    "SessionId": "ebe2f82c-f4c1-4b94-a70f-e6584ac4cce4",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "8594ece7-a881-477f-8fc5-38592bece946",
+    "Sender": "User",
+    "Message": "tips on vpn",
+    "Timestamp": "2025-06-27T00:34:30.6363295+02:00",
+    "SessionId": "ebe2f82c-f4c1-4b94-a70f-e6584ac4cce4",
+    "Topic": null
+  },
+  {
+    "Id": "aba0d3bc-3e42-412d-b2d6-a075beeac298",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:34:31.3735762+02:00",
+    "SessionId": "ebe2f82c-f4c1-4b94-a70f-e6584ac4cce4",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "fbae9410-7982-4159-933a-a5f169ed7046",
+    "Sender": "Bot",
+    "Message": "Welcome, vpn! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:36:56.2043685+02:00",
+    "SessionId": "6009e375-da3b-4d6b-a2c3-517b36f102e9",
+    "Topic": null
+  },
+  {
+    "Id": "8801935f-dd77-476d-8cbb-a3d1945df112",
+    "Sender": "User",
+    "Message": "vpn",
+    "Timestamp": "2025-06-27T00:36:59.7838527+02:00",
+    "SessionId": "6009e375-da3b-4d6b-a2c3-517b36f102e9",
+    "Topic": null
+  },
+  {
+    "Id": "bf75d48d-04cf-411e-8799-94e20381c8f0",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:37:00.4939387+02:00",
+    "SessionId": "6009e375-da3b-4d6b-a2c3-517b36f102e9",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "405f94df-3c38-4b8e-9ffd-3331d73f9895",
+    "Sender": "User",
+    "Message": "tips on vpn",
+    "Timestamp": "2025-06-27T00:37:05.1671836+02:00",
+    "SessionId": "6009e375-da3b-4d6b-a2c3-517b36f102e9",
+    "Topic": null
+  },
+  {
+    "Id": "cbbeaeb1-7d04-4561-8ae3-6c7199d6b70d",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:37:05.8778433+02:00",
+    "SessionId": "6009e375-da3b-4d6b-a2c3-517b36f102e9",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "e3fbeab2-0ea2-41ec-9077-c6b1eb2712a7",
+    "Sender": "User",
+    "Message": "tips on password",
+    "Timestamp": "2025-06-27T00:37:12.949014+02:00",
+    "SessionId": "6009e375-da3b-4d6b-a2c3-517b36f102e9",
+    "Topic": null
+  },
+  {
+    "Id": "7fad3391-519a-4755-92e0-9e92be470804",
+    "Sender": "Bot",
+    "Message": "Password safety involves using secure and robust passwords to protect sensitive data and systems from unauthorized access. It includes strategies like creating strong passwords, avoiding weak or repetitive ones, and using tools like password managers to securely store credentials.",
+    "Timestamp": "2025-06-27T00:37:13.6646239+02:00",
+    "SessionId": "6009e375-da3b-4d6b-a2c3-517b36f102e9",
+    "Topic": "password"
+  },
+  {
+    "Id": "2ded8e45-dbcd-4155-ad8e-3c44be9bef9f",
+    "Sender": "User",
+    "Message": "tips on password",
+    "Timestamp": "2025-06-27T00:37:21.5318239+02:00",
+    "SessionId": "6009e375-da3b-4d6b-a2c3-517b36f102e9",
+    "Topic": null
+  },
+  {
+    "Id": "db43a1af-facc-4287-a6dd-64506d31694d",
+    "Sender": "Bot",
+    "Message": "Password safety involves using secure and robust passwords to protect sensitive data and systems from unauthorized access. It includes strategies like creating strong passwords, avoiding weak or repetitive ones, and using tools like password managers to securely store credentials.",
+    "Timestamp": "2025-06-27T00:37:22.2518217+02:00",
+    "SessionId": "6009e375-da3b-4d6b-a2c3-517b36f102e9",
+    "Topic": "password"
+  },
+  {
+    "Id": "3378d31c-acb1-49c2-bdef-be6f458bb5f3",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:38:11.3569987+02:00",
+    "SessionId": "63d0d4ab-e952-4939-a670-124c192a2d01",
+    "Topic": null
+  },
+  {
+    "Id": "91d20ebb-30df-4b75-ae3a-c7e2defa009a",
+    "Sender": "User",
+    "Message": "vpn",
+    "Timestamp": "2025-06-27T00:38:15.1428056+02:00",
+    "SessionId": "63d0d4ab-e952-4939-a670-124c192a2d01",
+    "Topic": null
+  },
+  {
+    "Id": "905ee0e3-6d7c-472d-8d24-4b39fca05232",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:38:15.8519698+02:00",
+    "SessionId": "63d0d4ab-e952-4939-a670-124c192a2d01",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "7f293795-056d-4a5c-82fd-5483dd5f1a7c",
+    "Sender": "User",
+    "Message": "tips on vpn",
+    "Timestamp": "2025-06-27T00:38:19.5854061+02:00",
+    "SessionId": "63d0d4ab-e952-4939-a670-124c192a2d01",
+    "Topic": null
+  },
+  {
+    "Id": "ca6fc0bc-d722-42a6-b6bf-494c0c28e831",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:38:20.2924269+02:00",
+    "SessionId": "63d0d4ab-e952-4939-a670-124c192a2d01",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "77ba039c-4a79-4952-8477-73d0e8cea3da",
+    "Sender": "User",
+    "Message": "tips on password",
+    "Timestamp": "2025-06-27T00:38:25.2000685+02:00",
+    "SessionId": "63d0d4ab-e952-4939-a670-124c192a2d01",
+    "Topic": null
+  },
+  {
+    "Id": "3c373ddb-2120-4812-a1e6-b845bd93a882",
+    "Sender": "Bot",
+    "Message": "Password safety involves using secure and robust passwords to protect sensitive data and systems from unauthorized access. It includes strategies like creating strong passwords, avoiding weak or repetitive ones, and using tools like password managers to securely store credentials.",
+    "Timestamp": "2025-06-27T00:38:25.9181226+02:00",
+    "SessionId": "63d0d4ab-e952-4939-a670-124c192a2d01",
+    "Topic": "password"
+  },
+  {
+    "Id": "53dce2a2-148a-4702-b47d-113f5f028d6f",
+    "Sender": "User",
+    "Message": "give me a VPN ti[",
+    "Timestamp": "2025-06-27T00:38:39.1438063+02:00",
+    "SessionId": "63d0d4ab-e952-4939-a670-124c192a2d01",
+    "Topic": null
+  },
+  {
+    "Id": "60df7a8a-c06c-4e26-9454-ef8dafd69abd",
+    "Sender": "Bot",
+    "Message": "I can help you learn about general. What specific aspect would you like to know more about?",
+    "Timestamp": "2025-06-27T00:38:39.1813248+02:00",
+    "SessionId": "63d0d4ab-e952-4939-a670-124c192a2d01",
+    "Topic": "general"
+  },
+  {
+    "Id": "807b8cc7-d21d-4888-be4e-d0ca9720fa4f",
+    "Sender": "User",
+    "Message": "Give me a VPN tip",
+    "Timestamp": "2025-06-27T00:38:52.460758+02:00",
+    "SessionId": "63d0d4ab-e952-4939-a670-124c192a2d01",
+    "Topic": null
+  },
+  {
+    "Id": "37cabc7d-bdb0-4f5a-bc10-3d415d475b2a",
+    "Sender": "Bot",
+    "Message": "I can help you learn about general. What specific aspect would you like to know more about?",
+    "Timestamp": "2025-06-27T00:38:52.4690844+02:00",
+    "SessionId": "63d0d4ab-e952-4939-a670-124c192a2d01",
+    "Topic": "general"
+  },
+  {
+    "Id": "e7cede07-68a0-4e2f-800b-150e7ab0e273",
+    "Sender": "Bot",
+    "Message": "Welcome, Vpn! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:40:48.9648134+02:00",
+    "SessionId": "7852e6b4-475b-4360-8525-d4e029fc339c",
+    "Topic": null
+  },
+  {
+    "Id": "1b53be0c-de7f-4144-b0ae-d090f8c57a1d",
+    "Sender": "User",
+    "Message": "password",
+    "Timestamp": "2025-06-27T00:40:53.6787564+02:00",
+    "SessionId": "7852e6b4-475b-4360-8525-d4e029fc339c",
+    "Topic": null
+  },
+  {
+    "Id": "7cac9a1e-5c98-4836-aaad-a2d93cdf903d",
+    "Sender": "Bot",
+    "Message": "Password safety involves using secure and robust passwords to protect sensitive data and systems from unauthorized access. It includes strategies like creating strong passwords, avoiding weak or repetitive ones, and using tools like password managers to securely store credentials.",
+    "Timestamp": "2025-06-27T00:40:54.3822887+02:00",
+    "SessionId": "7852e6b4-475b-4360-8525-d4e029fc339c",
+    "Topic": "password"
+  },
+  {
+    "Id": "61293800-ccf8-44dd-94f5-ce9195b13074",
+    "Sender": "User",
+    "Message": "tips on password",
+    "Timestamp": "2025-06-27T00:41:00.1199347+02:00",
+    "SessionId": "7852e6b4-475b-4360-8525-d4e029fc339c",
+    "Topic": null
+  },
+  {
+    "Id": "bce42234-e652-4485-a023-091c6da18efd",
+    "Sender": "Bot",
+    "Message": "Password safety involves using secure and robust passwords to protect sensitive data and systems from unauthorized access. It includes strategies like creating strong passwords, avoiding weak or repetitive ones, and using tools like password managers to securely store credentials.",
+    "Timestamp": "2025-06-27T00:41:00.837956+02:00",
+    "SessionId": "7852e6b4-475b-4360-8525-d4e029fc339c",
+    "Topic": "password"
+  },
+  {
+    "Id": "33ccba7c-0888-4fe3-81b3-141c73abedcd",
+    "Sender": "Bot",
+    "Message": "Welcome, Tell me about VPN! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:42:19.7008139+02:00",
+    "SessionId": "c0cac805-3d2b-406d-b59d-9c91c6542858",
+    "Topic": null
+  },
+  {
+    "Id": "cd56950c-3043-422e-ab88-4bbecaaf7793",
+    "Sender": "User",
+    "Message": "Tell me about VPN",
+    "Timestamp": "2025-06-27T00:42:24.3850863+02:00",
+    "SessionId": "c0cac805-3d2b-406d-b59d-9c91c6542858",
+    "Topic": null
+  },
+  {
+    "Id": "28e922ab-2674-4c57-a48c-a64d7cbbf394",
+    "Sender": "Bot",
+    "Message": "I can help you learn about general. What specific aspect would you like to know more about?",
+    "Timestamp": "2025-06-27T00:42:24.3970861+02:00",
+    "SessionId": "c0cac805-3d2b-406d-b59d-9c91c6542858",
+    "Topic": "general"
+  },
+  {
+    "Id": "5a544c00-241a-402b-8957-3a92e9971d6d",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:43:21.2063608+02:00",
+    "SessionId": "ac1b7056-6d3b-4ea8-94ac-29e26d8b4c60",
+    "Topic": null
+  },
+  {
+    "Id": "a14664d0-8b32-46d4-bcc1-4f3f85e8e4a1",
+    "Sender": "User",
+    "Message": "VPN",
+    "Timestamp": "2025-06-27T00:43:31.7218162+02:00",
+    "SessionId": "ac1b7056-6d3b-4ea8-94ac-29e26d8b4c60",
+    "Topic": null
+  },
+  {
+    "Id": "4a16e0d2-41f7-4b06-ad50-f1e4e2287972",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:43:32.4429728+02:00",
+    "SessionId": "ac1b7056-6d3b-4ea8-94ac-29e26d8b4c60",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "f9a08e4c-c119-432b-ba7a-10da6d08162d",
+    "Sender": "User",
+    "Message": "Tips on VPN",
+    "Timestamp": "2025-06-27T00:43:47.0361513+02:00",
+    "SessionId": "ac1b7056-6d3b-4ea8-94ac-29e26d8b4c60",
+    "Topic": null
+  },
+  {
+    "Id": "c6e97b36-f44c-4fc1-a0de-54dcc8fe3643",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:43:47.7652556+02:00",
+    "SessionId": "ac1b7056-6d3b-4ea8-94ac-29e26d8b4c60",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "0e0f4559-2b73-4c7c-ae0f-d4e58dae0068",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:46:28.722356+02:00",
+    "SessionId": "c2197117-7f05-43d1-bd6a-f7f7bf033017",
+    "Topic": null
+  },
+  {
+    "Id": "0c6d0ba3-e984-4670-bc58-1039d89b23ab",
+    "Sender": "User",
+    "Message": "VPN",
+    "Timestamp": "2025-06-27T00:46:32.1875714+02:00",
+    "SessionId": "c2197117-7f05-43d1-bd6a-f7f7bf033017",
+    "Topic": null
+  },
+  {
+    "Id": "96cc6a6f-0eb1-44c3-8592-5706c504d3ba",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:46:32.8918633+02:00",
+    "SessionId": "c2197117-7f05-43d1-bd6a-f7f7bf033017",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "5c2e598f-1c27-4b38-8899-37f0faca4cda",
+    "Sender": "User",
+    "Message": "Tips on VPN",
+    "Timestamp": "2025-06-27T00:46:38.5534215+02:00",
+    "SessionId": "c2197117-7f05-43d1-bd6a-f7f7bf033017",
+    "Topic": null
+  },
+  {
+    "Id": "9e4f3290-9d74-41c0-8271-b658b168adce",
+    "Sender": "Bot",
+    "Message": "Always connect to the VPN before accessing sensitive accounts or files remotely.",
+    "Timestamp": "2025-06-27T00:46:38.5636954+02:00",
+    "SessionId": "c2197117-7f05-43d1-bd6a-f7f7bf033017",
+    "Topic": null
+  },
+  {
+    "Id": "8ba8b87e-bbfa-4a90-8986-48d6234b397d",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:47:48.8489263+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": null
+  },
+  {
+    "Id": "3fc7788e-9625-4ad0-a4b1-626f19a026bd",
+    "Sender": "User",
+    "Message": "vpn",
+    "Timestamp": "2025-06-27T00:47:56.1518377+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": null
+  },
+  {
+    "Id": "875baeca-ce53-4881-863d-35a3536b13b8",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:47:56.8605943+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "43dbdf85-e65b-41f1-9905-85072fce3d90",
+    "Sender": "User",
+    "Message": "tip on vpn",
+    "Timestamp": "2025-06-27T00:48:02.207174+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": null
+  },
+  {
+    "Id": "ce8908be-1175-4017-9c23-d78d10badad4",
+    "Sender": "Bot",
+    "Message": "Always connect to the VPN before accessing sensitive accounts or files remotely.",
+    "Timestamp": "2025-06-27T00:48:02.2108977+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": null
+  },
+  {
+    "Id": "fbb65b3f-ac4e-44a6-9847-979ffaebd7d7",
+    "Sender": "User",
+    "Message": "passwrod",
+    "Timestamp": "2025-06-27T00:48:06.7807158+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": null
+  },
+  {
+    "Id": "970d931e-8c38-45e4-91d3-00268174fae5",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure what specific aspect of vpn you\u0027re asking about. You can ask for more information, examples, how to implement it, or what to avoid.",
+    "Timestamp": "2025-06-27T00:48:06.7887698+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": null
+  },
+  {
+    "Id": "bf178da4-0a86-4f22-a014-f536fb5d9e11",
+    "Sender": "User",
+    "Message": "password",
+    "Timestamp": "2025-06-27T00:48:13.0431762+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": null
+  },
+  {
+    "Id": "fed123b9-7d83-4083-924b-c70a5f2d4029",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure what specific aspect of vpn you\u0027re asking about. You can ask for more information, examples, how to implement it, or what to avoid.",
+    "Timestamp": "2025-06-27T00:48:13.0526937+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": null
+  },
+  {
+    "Id": "3fa6f012-bf6f-4662-b02f-977f5dccd7b1",
+    "Sender": "User",
+    "Message": "help",
+    "Timestamp": "2025-06-27T00:48:23.0154912+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": null
+  },
+  {
+    "Id": "0edb6348-ae27-450f-8458-443bbbcc1c9b",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T00:48:23.1072223+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": null
+  },
+  {
+    "Id": "4f500d29-e2d4-4e2c-8240-70d197fedd27",
+    "Sender": "User",
+    "Message": "password security",
+    "Timestamp": "2025-06-27T00:48:34.5868449+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": null
+  },
+  {
+    "Id": "27ee989a-4615-411c-8043-26e7d8963c39",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure what specific aspect of vpn you\u0027re asking about. You can ask for more information, examples, how to implement it, or what to avoid.",
+    "Timestamp": "2025-06-27T00:48:34.5941686+02:00",
+    "SessionId": "d615a079-1f50-4d6d-a737-de022bda9170",
+    "Topic": null
+  },
+  {
+    "Id": "5b7420ae-e724-4ae3-bc36-12f811e017f6",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:49:27.9497266+02:00",
+    "SessionId": "e47a4990-10be-4936-b439-80519585b4ea",
+    "Topic": null
+  },
+  {
+    "Id": "934c294e-cbe2-4840-9078-5f3b2d5e2b4a",
+    "Sender": "User",
+    "Message": "Tell me about VPN",
+    "Timestamp": "2025-06-27T00:49:33.1311959+02:00",
+    "SessionId": "e47a4990-10be-4936-b439-80519585b4ea",
+    "Topic": null
+  },
+  {
+    "Id": "ca5285b6-674d-4393-96e1-eabfc6c746f4",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:49:33.8389845+02:00",
+    "SessionId": "e47a4990-10be-4936-b439-80519585b4ea",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "d89f89fd-752b-42fc-815f-d1ccadecc09d",
+    "Sender": "User",
+    "Message": "tip on vpn",
+    "Timestamp": "2025-06-27T00:49:39.5089443+02:00",
+    "SessionId": "e47a4990-10be-4936-b439-80519585b4ea",
+    "Topic": null
+  },
+  {
+    "Id": "e6b3a817-0d38-4515-93cd-bdefa5f4eae8",
+    "Sender": "Bot",
+    "Message": "Choose a reputable VPN provider that does not log your activity.",
+    "Timestamp": "2025-06-27T00:49:39.5126652+02:00",
+    "SessionId": "e47a4990-10be-4936-b439-80519585b4ea",
+    "Topic": null
+  },
+  {
+    "Id": "40a4f3f0-2554-498f-b020-35bce046876a",
+    "Sender": "User",
+    "Message": "password",
+    "Timestamp": "2025-06-27T00:49:45.3974894+02:00",
+    "SessionId": "e47a4990-10be-4936-b439-80519585b4ea",
+    "Topic": null
+  },
+  {
+    "Id": "0123023d-7d10-4f2a-b0f9-2369df6816de",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure what specific aspect of vpn you\u0027re asking about. You can ask for more information, examples, how to implement it, or what to avoid.",
+    "Timestamp": "2025-06-27T00:49:45.4130634+02:00",
+    "SessionId": "e47a4990-10be-4936-b439-80519585b4ea",
+    "Topic": null
+  },
+  {
+    "Id": "1c339a45-a126-4fb7-9e5e-cc5b87ea4346",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:51:38.0908109+02:00",
+    "SessionId": "90732e6d-b4f3-477b-9b8e-4ad29d936199",
+    "Topic": null
+  },
+  {
+    "Id": "b6b7468e-0f7d-40b1-9244-fb4ef5ecf942",
+    "Sender": "User",
+    "Message": "vpn",
+    "Timestamp": "2025-06-27T00:51:50.7778688+02:00",
+    "SessionId": "90732e6d-b4f3-477b-9b8e-4ad29d936199",
+    "Topic": null
+  },
+  {
+    "Id": "48faf8ce-87e1-4805-8a5c-931d3484295a",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:51:51.4851816+02:00",
+    "SessionId": "90732e6d-b4f3-477b-9b8e-4ad29d936199",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "f6dbf2d8-ab07-4d60-9e1c-5ec4ae6999c5",
+    "Sender": "User",
+    "Message": "tips on vpn",
+    "Timestamp": "2025-06-27T00:51:56.7788929+02:00",
+    "SessionId": "90732e6d-b4f3-477b-9b8e-4ad29d936199",
+    "Topic": null
+  },
+  {
+    "Id": "da02c501-89de-4a16-aa3e-35aca8bac60e",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:51:57.490682+02:00",
+    "SessionId": "90732e6d-b4f3-477b-9b8e-4ad29d936199",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "85b9f29b-03b6-4634-bbf7-5955995a19e9",
+    "Sender": "User",
+    "Message": "password",
+    "Timestamp": "2025-06-27T00:52:03.4483745+02:00",
+    "SessionId": "90732e6d-b4f3-477b-9b8e-4ad29d936199",
+    "Topic": null
+  },
+  {
+    "Id": "82b97dcc-9f18-4e7a-8e1e-f8e564e2e9a3",
+    "Sender": "Bot",
+    "Message": "Password safety involves using secure and robust passwords to protect sensitive data and systems from unauthorized access. It includes strategies like creating strong passwords, avoiding weak or repetitive ones, and using tools like password managers to securely store credentials.",
+    "Timestamp": "2025-06-27T00:52:04.1830625+02:00",
+    "SessionId": "90732e6d-b4f3-477b-9b8e-4ad29d936199",
+    "Topic": "password"
+  },
+  {
+    "Id": "5beb5d93-1003-4d32-b11e-a91732d617ac",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:52:46.9383505+02:00",
+    "SessionId": "1bea8780-7958-46d8-a4f8-8cac4da88dc9",
+    "Topic": null
+  },
+  {
+    "Id": "ed18137d-eeb7-4907-84ee-c2561e28cb9c",
+    "Sender": "User",
+    "Message": "vpn",
+    "Timestamp": "2025-06-27T00:52:51.0079578+02:00",
+    "SessionId": "1bea8780-7958-46d8-a4f8-8cac4da88dc9",
+    "Topic": null
+  },
+  {
+    "Id": "5de54754-aa8d-41d6-8d87-a16ff2e63601",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:52:51.712583+02:00",
+    "SessionId": "1bea8780-7958-46d8-a4f8-8cac4da88dc9",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "12f357dc-178e-4982-874f-1f91814870d4",
+    "Sender": "User",
+    "Message": "tips on vpn",
+    "Timestamp": "2025-06-27T00:52:54.9612967+02:00",
+    "SessionId": "1bea8780-7958-46d8-a4f8-8cac4da88dc9",
+    "Topic": null
+  },
+  {
+    "Id": "3f04a79c-f6d5-4099-a792-29e291195520",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:52:55.6901419+02:00",
+    "SessionId": "1bea8780-7958-46d8-a4f8-8cac4da88dc9",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "4cc03c70-fb2b-4817-b114-433c45f21b68",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:54:56.5678188+02:00",
+    "SessionId": "c85e887a-6512-4a43-a27c-6088aa0112c8",
+    "Topic": null
+  },
+  {
+    "Id": "08f1b55c-0271-465e-996f-c4f394c78756",
+    "Sender": "User",
+    "Message": "vpn",
+    "Timestamp": "2025-06-27T00:55:00.8926512+02:00",
+    "SessionId": "c85e887a-6512-4a43-a27c-6088aa0112c8",
+    "Topic": null
+  },
+  {
+    "Id": "4f475b30-e1e5-4ec7-b2ab-07bb5f15aed1",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T00:55:01.6006747+02:00",
+    "SessionId": "c85e887a-6512-4a43-a27c-6088aa0112c8",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "6a17afdf-0063-487e-8a92-83b1ea35389b",
+    "Sender": "User",
+    "Message": "tips on vpn",
+    "Timestamp": "2025-06-27T00:55:05.9713877+02:00",
+    "SessionId": "c85e887a-6512-4a43-a27c-6088aa0112c8",
+    "Topic": null
+  },
+  {
+    "Id": "993a29cb-0c16-4b9a-80d2-f42055d4de2e",
+    "Sender": "Bot",
+    "Message": "Tip displayed for vpn",
+    "Timestamp": "2025-06-27T00:55:05.9784167+02:00",
+    "SessionId": "c85e887a-6512-4a43-a27c-6088aa0112c8",
+    "Topic": null
+  },
+  {
+    "Id": "c335a572-3fb4-419b-bea0-d2973903d55d",
+    "Sender": "User",
+    "Message": "password",
+    "Timestamp": "2025-06-27T00:55:09.8257367+02:00",
+    "SessionId": "c85e887a-6512-4a43-a27c-6088aa0112c8",
+    "Topic": null
+  },
+  {
+    "Id": "404796c4-facc-493b-bdc9-e5fd96475692",
+    "Sender": "Bot",
+    "Message": "Password safety involves using secure and robust passwords to protect sensitive data and systems from unauthorized access. It includes strategies like creating strong passwords, avoiding weak or repetitive ones, and using tools like password managers to securely store credentials.",
+    "Timestamp": "2025-06-27T00:55:10.5423289+02:00",
+    "SessionId": "c85e887a-6512-4a43-a27c-6088aa0112c8",
+    "Topic": "password"
+  },
+  {
+    "Id": "503b3d53-fc39-438c-96ff-0d9d6fadc569",
+    "Sender": "User",
+    "Message": "password tip",
+    "Timestamp": "2025-06-27T00:55:14.4071004+02:00",
+    "SessionId": "c85e887a-6512-4a43-a27c-6088aa0112c8",
+    "Topic": null
+  },
+  {
+    "Id": "369bac0f-2cf3-4dd7-bc31-a168c7400028",
+    "Sender": "Bot",
+    "Message": "Tip displayed for password",
+    "Timestamp": "2025-06-27T00:55:14.4165859+02:00",
+    "SessionId": "c85e887a-6512-4a43-a27c-6088aa0112c8",
+    "Topic": null
+  },
+  {
+    "Id": "e928bb2f-6790-4e5c-aa3a-581129c322c0",
+    "Sender": "User",
+    "Message": "tip",
+    "Timestamp": "2025-06-27T00:55:17.0765583+02:00",
+    "SessionId": "c85e887a-6512-4a43-a27c-6088aa0112c8",
+    "Topic": null
+  },
+  {
+    "Id": "b1cca968-439d-4514-8282-7659708a3c85",
+    "Sender": "Bot",
+    "Message": "Tip displayed for password",
+    "Timestamp": "2025-06-27T00:55:17.0853529+02:00",
+    "SessionId": "c85e887a-6512-4a43-a27c-6088aa0112c8",
+    "Topic": null
+  },
+  {
+    "Id": "8608d7c0-81b2-4705-a8c4-d2420e7ed077",
+    "Sender": "Bot",
+    "Message": "Welcome, john! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:56:40.4068276+02:00",
+    "SessionId": "893be45d-cc91-4e62-97c8-adc321ecd62e",
+    "Topic": null
+  },
+  {
+    "Id": "57d07a35-12c6-4050-b8d6-fe9142f7e6c7",
+    "Sender": "User",
+    "Message": "Remind me to change my password in 7 days",
+    "Timestamp": "2025-06-27T00:56:57.6886397+02:00",
+    "SessionId": "893be45d-cc91-4e62-97c8-adc321ecd62e",
+    "Topic": null
+  },
+  {
+    "Id": "769e3ab8-b90a-4d95-baf5-a30cd516e74f",
+    "Sender": "Bot",
+    "Message": "\u2705 Task created: \u0027change my password in 7 days\u0027 - Reminder set for 2025/07/04 00:56",
+    "Timestamp": "2025-06-27T00:56:57.7231831+02:00",
+    "SessionId": "893be45d-cc91-4e62-97c8-adc321ecd62e",
+    "Topic": "task"
+  },
+  {
+    "Id": "20710904-8fde-4c65-a5bb-bedb6e73f3cc",
+    "Sender": "User",
+    "Message": "show tasks",
+    "Timestamp": "2025-06-27T00:57:08.6246714+02:00",
+    "SessionId": "893be45d-cc91-4e62-97c8-adc321ecd62e",
+    "Topic": null
+  },
+  {
+    "Id": "8ba41839-1d12-4bbb-ba08-c3bc6912d716",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 9 tasks found",
+    "Timestamp": "2025-06-27T00:57:09.3615345+02:00",
+    "SessionId": "893be45d-cc91-4e62-97c8-adc321ecd62e",
+    "Topic": "task"
+  },
+  {
+    "Id": "530c68e2-caf6-4012-8669-105bfb75dc85",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T00:59:24.7730344+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "b3fad7c8-c67a-4adc-824f-67b354b2fe56",
+    "Sender": "User",
+    "Message": "all tasks",
+    "Timestamp": "2025-06-27T00:59:38.1905206+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "546d40d5-5361-4d4d-ae60-a8753f234f57",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure I understand. Try asking about cybersecurity topics like passwords, phishing, malware, or type \u0027help\u0027 to see what I can help you with.",
+    "Timestamp": "2025-06-27T00:59:38.1993274+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "8b9399fa-6992-4833-8cb3-e7eedf13c8b0",
+    "Sender": "User",
+    "Message": "help tasks",
+    "Timestamp": "2025-06-27T00:59:44.5734728+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "c863eca0-f97c-4f20-adea-9fdf114076c4",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T00:59:44.66936+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "d3154fd7-b135-46ac-b0a7-fdfdbcadf976",
+    "Sender": "User",
+    "Message": "task help",
+    "Timestamp": "2025-06-27T00:59:51.5553467+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "84bad296-6e85-47b1-b4e1-645181c41086",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T00:59:51.6469732+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "24887b51-cd75-4f6e-ba90-7ca282715dde",
+    "Sender": "User",
+    "Message": "view tasks",
+    "Timestamp": "2025-06-27T01:00:02.8829644+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "01b407fa-97ae-405c-a646-cb4958dcc95c",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 9 tasks found",
+    "Timestamp": "2025-06-27T01:00:03.5970539+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": "task"
+  },
+  {
+    "Id": "a03965a0-bb3f-48eb-b0c7-0206825faa43",
+    "Sender": "User",
+    "Message": "remove all",
+    "Timestamp": "2025-06-27T01:00:09.0721209+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "6aaec268-a1e8-4f43-b003-a1cb197986cd",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure I understand. Try asking about cybersecurity topics like passwords, phishing, malware, or type \u0027help\u0027 to see what I can help you with.",
+    "Timestamp": "2025-06-27T01:00:09.0825497+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "54da90d8-070e-4de0-a70c-7760f9946c07",
+    "Sender": "User",
+    "Message": "remove all tasks",
+    "Timestamp": "2025-06-27T01:00:16.3137191+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "09c8ef7c-0ec9-427e-839d-c825f155065b",
+    "Sender": "Bot",
+    "Message": "\uD83D\uDDD1\uFE0F Removed all 9 tasks successfully.",
+    "Timestamp": "2025-06-27T01:00:16.3319182+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": "task"
+  },
+  {
+    "Id": "6fe2793c-86d1-42a8-a3ef-1d61a69be6ca",
+    "Sender": "User",
+    "Message": "view tasks",
+    "Timestamp": "2025-06-27T01:00:22.1017403+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "8ae5a97c-06fb-4591-a6f4-e70a091143cf",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 0 tasks found",
+    "Timestamp": "2025-06-27T01:00:22.8159636+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": "task"
+  },
+  {
+    "Id": "e9a10b4f-9f28-41d4-b0cc-171a3d53e94a",
+    "Sender": "User",
+    "Message": "quiz help",
+    "Timestamp": "2025-06-27T01:03:26.7037693+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "2fdfbb10-ba8e-4782-bbb2-53bcdbd00c3c",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T01:03:26.8177355+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "d9dae4fc-28ca-46f3-8d77-969f8527c0dd",
+    "Sender": "User",
+    "Message": "task help",
+    "Timestamp": "2025-06-27T01:03:40.8198596+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "5b4022e2-fc5f-44f8-a0a5-89aa01b1d30d",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T01:03:40.9054951+02:00",
+    "SessionId": "2de48509-ffbf-4f8c-9b5d-7c43f1dca337",
+    "Topic": null
+  },
+  {
+    "Id": "9ad5de13-4820-4aa6-94d3-ad8e23d03255",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T01:04:16.6388206+02:00",
+    "SessionId": "f8133693-800d-4a38-b1a1-5a4e2b0d9ced",
+    "Topic": null
+  },
+  {
+    "Id": "611e2048-aa27-4dba-9a95-6f4b29961165",
+    "Sender": "User",
+    "Message": "task help",
+    "Timestamp": "2025-06-27T01:04:21.1306079+02:00",
+    "SessionId": "f8133693-800d-4a38-b1a1-5a4e2b0d9ced",
+    "Topic": null
+  },
+  {
+    "Id": "5c5b82e6-95c2-4ba2-a75c-8b9fd0a0de9a",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T01:04:21.2042081+02:00",
+    "SessionId": "f8133693-800d-4a38-b1a1-5a4e2b0d9ced",
+    "Topic": null
+  },
+  {
+    "Id": "57bcce45-62ba-49b3-95aa-cc0483284136",
+    "Sender": "User",
+    "Message": "task helo",
+    "Timestamp": "2025-06-27T01:04:26.7029479+02:00",
+    "SessionId": "f8133693-800d-4a38-b1a1-5a4e2b0d9ced",
+    "Topic": null
+  },
+  {
+    "Id": "11523fd4-775d-4835-af7a-a0c6fbc04f82",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure I understand. Try asking about cybersecurity topics like passwords, phishing, malware, or type \u0027help\u0027 to see what I can help you with.",
+    "Timestamp": "2025-06-27T01:04:26.7236063+02:00",
+    "SessionId": "f8133693-800d-4a38-b1a1-5a4e2b0d9ced",
+    "Topic": null
+  },
+  {
+    "Id": "e2eac469-f9f3-4a0a-b73c-298664af0a86",
+    "Sender": "User",
+    "Message": "task help",
+    "Timestamp": "2025-06-27T01:04:30.2318572+02:00",
+    "SessionId": "f8133693-800d-4a38-b1a1-5a4e2b0d9ced",
+    "Topic": null
+  },
+  {
+    "Id": "189d2e50-4b4f-414c-9346-ad2b39053a53",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T01:04:30.3436889+02:00",
+    "SessionId": "f8133693-800d-4a38-b1a1-5a4e2b0d9ced",
+    "Topic": null
+  },
+  {
+    "Id": "86e4af76-18ad-4803-95a7-de7e7980aba4",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T01:05:38.9110795+02:00",
+    "SessionId": "94c34529-e21e-4e3f-9751-a3a15b0f5d4c",
+    "Topic": null
+  },
+  {
+    "Id": "b962d4f5-91ba-430a-882d-d486e039678f",
+    "Sender": "User",
+    "Message": "task help",
+    "Timestamp": "2025-06-27T01:05:47.0694668+02:00",
+    "SessionId": "94c34529-e21e-4e3f-9751-a3a15b0f5d4c",
+    "Topic": null
+  },
+  {
+    "Id": "b80d5117-4e56-4486-8ec6-c9bcba6f055b",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T01:05:47.1496538+02:00",
+    "SessionId": "94c34529-e21e-4e3f-9751-a3a15b0f5d4c",
+    "Topic": null
+  },
+  {
+    "Id": "da109e9d-43fe-4bda-a851-b09c21d9b3e5",
+    "Sender": "User",
+    "Message": "task help",
+    "Timestamp": "2025-06-27T01:05:54.1216794+02:00",
+    "SessionId": "94c34529-e21e-4e3f-9751-a3a15b0f5d4c",
+    "Topic": null
+  },
+  {
+    "Id": "e128d14a-e4f9-4688-a369-f3322e50f40b",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T01:05:54.2173326+02:00",
+    "SessionId": "94c34529-e21e-4e3f-9751-a3a15b0f5d4c",
+    "Topic": null
+  },
+  {
+    "Id": "ddcf65a3-2682-4e9f-aaec-4afb9070591a",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T12:36:24.257184+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "b8386308-b282-459e-b3c3-ecd13615fa6e",
+    "Sender": "User",
+    "Message": "activity log",
+    "Timestamp": "2025-06-27T12:36:45.6234081+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "df3448f3-840f-4933-ade4-fa7c16ef5b79",
+    "Sender": "Bot",
+    "Message": "Displayed Recent Activity Log: 10 activities found",
+    "Timestamp": "2025-06-27T12:36:46.3711518+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": "activity"
+  },
+  {
+    "Id": "6995619e-2ee9-4d76-8447-334c2ff6786d",
+    "Sender": "User",
+    "Message": "tell me about vpnj",
+    "Timestamp": "2025-06-27T12:37:01.8717026+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "113de53a-8216-49f0-ba34-599d396283f7",
+    "Sender": "Bot",
+    "Message": "A Virtual Private Network (VPN) encrypts your internet connection and hides your online activities and location. VPNs are especially important when using public Wi-Fi networks, as they protect your data from potential eavesdroppers on the network.",
+    "Timestamp": "2025-06-27T12:37:02.6118411+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": "vpn"
+  },
+  {
+    "Id": "15086533-0db7-40d5-9ec2-36a8360cede9",
+    "Sender": "User",
+    "Message": "tips on vpn",
+    "Timestamp": "2025-06-27T12:37:10.7489763+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "69930f72-87a4-44bc-ace5-0c9f20b4f9aa",
+    "Sender": "Bot",
+    "Message": "Tip displayed for vpn",
+    "Timestamp": "2025-06-27T12:37:10.7596473+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "00cf7436-7061-4d0a-b5cf-54dd06f6ce35",
+    "Sender": "User",
+    "Message": "password information",
+    "Timestamp": "2025-06-27T12:37:19.2099917+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "372bae51-1e30-43d4-9e8d-a1a93722e028",
+    "Sender": "Bot",
+    "Message": "Password safety involves using secure and robust passwords to protect sensitive data and systems from unauthorized access. It includes strategies like creating strong passwords, avoiding weak or repetitive ones, and using tools like password managers to securely store credentials.",
+    "Timestamp": "2025-06-27T12:37:19.9459144+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": "password"
+  },
+  {
+    "Id": "d8945a6d-d77a-4f8a-9457-df05f42315b2",
+    "Sender": "User",
+    "Message": "password tip",
+    "Timestamp": "2025-06-27T12:37:27.5035247+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "b5d976ac-c742-4927-9834-23bda0d89b10",
+    "Sender": "Bot",
+    "Message": "Tip displayed for password",
+    "Timestamp": "2025-06-27T12:37:27.5289011+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "94e14102-5cab-41ab-85b1-eea48b0ccbaa",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T12:37:35.6321517+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "c0f7f51d-92b2-41c9-b630-a9d4f16da0d7",
+    "Sender": "User",
+    "Message": "remind me to channge my number in 3 days",
+    "Timestamp": "2025-06-27T12:37:57.2364238+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "ff8cef21-5c31-4b1f-b11a-4534c859e7dd",
+    "Sender": "Bot",
+    "Message": "\u2705 Task created: \u0027channge my number in 3 days\u0027 - Reminder set for 2025/06/30 12:37",
+    "Timestamp": "2025-06-27T12:37:57.2775368+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": "task"
+  },
+  {
+    "Id": "aef01d03-6166-4c37-83ee-774f19489fd4",
+    "Sender": "User",
+    "Message": "show all tasks",
+    "Timestamp": "2025-06-27T12:38:03.5840027+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "b1995309-4f74-4b3b-b5b2-8a94876e5493",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 1 tasks found",
+    "Timestamp": "2025-06-27T12:38:04.3269087+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": "task"
+  },
+  {
+    "Id": "1049f058-bcbc-4bb1-8e06-e6c73ab002c1",
+    "Sender": "User",
+    "Message": "remove all tasks",
+    "Timestamp": "2025-06-27T12:38:10.2930426+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "efaecfd7-2e1f-4e10-8ce8-f928256131ff",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 1 tasks found",
+    "Timestamp": "2025-06-27T12:38:11.0146394+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": "task"
+  },
+  {
+    "Id": "724247e3-aeb0-4932-855f-8a4e2f40a526",
+    "Sender": "User",
+    "Message": "delete all tasks",
+    "Timestamp": "2025-06-27T12:38:19.1016147+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": null
+  },
+  {
+    "Id": "3a18aef4-6563-4438-ad8e-c64bd1879596",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 1 tasks found",
+    "Timestamp": "2025-06-27T12:38:19.8410575+02:00",
+    "SessionId": "74541297-4da0-4799-b03d-92c7145cd08d",
+    "Topic": "task"
+  },
+  {
+    "Id": "629044ca-5367-4e22-a35d-fa2534e9abc1",
+    "Sender": "Bot",
+    "Message": "Welcome, show all tasks! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T12:40:19.4074022+02:00",
+    "SessionId": "0881776e-0e21-4981-944c-15edcf40051e",
+    "Topic": null
+  },
+  {
+    "Id": "6e4afe2c-46ba-40f9-a31b-0a8cb7625d1f",
+    "Sender": "User",
+    "Message": "show all tasks",
+    "Timestamp": "2025-06-27T12:40:28.7439968+02:00",
+    "SessionId": "0881776e-0e21-4981-944c-15edcf40051e",
+    "Topic": null
+  },
+  {
+    "Id": "c18c8a89-cf83-481b-aa94-24fc4a473b1c",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 1 tasks found",
+    "Timestamp": "2025-06-27T12:40:29.4500991+02:00",
+    "SessionId": "0881776e-0e21-4981-944c-15edcf40051e",
+    "Topic": "task"
+  },
+  {
+    "Id": "fb2f5a7f-ac44-4c80-9665-23ceabba0fd8",
+    "Sender": "User",
+    "Message": "delete all tasks",
+    "Timestamp": "2025-06-27T12:40:33.9423856+02:00",
+    "SessionId": "0881776e-0e21-4981-944c-15edcf40051e",
+    "Topic": null
+  },
+  {
+    "Id": "e5f829bd-0b60-4123-8c41-799ed3251b02",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 1 tasks found",
+    "Timestamp": "2025-06-27T12:40:34.6618103+02:00",
+    "SessionId": "0881776e-0e21-4981-944c-15edcf40051e",
+    "Topic": "task"
+  },
+  {
+    "Id": "ae74802d-0fd8-4e3f-b405-a36a1f7b5c73",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T12:41:44.2966412+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": null
+  },
+  {
+    "Id": "afa11ae6-ea41-490b-a12e-1d2559406aa4",
+    "Sender": "User",
+    "Message": "Show all tasks",
+    "Timestamp": "2025-06-27T12:41:50.3255216+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": null
+  },
+  {
+    "Id": "647a3878-54ef-42dd-b2db-3e0faadd9e98",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 1 tasks found",
+    "Timestamp": "2025-06-27T12:41:51.028604+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": "task"
+  },
+  {
+    "Id": "ff9bcae6-fac9-487a-86d8-e3d5b62ffa82",
+    "Sender": "User",
+    "Message": "delete all tasks",
+    "Timestamp": "2025-06-27T12:41:55.4489862+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": null
+  },
+  {
+    "Id": "509e9df2-e9d7-4666-b705-b99f4474d38a",
+    "Sender": "Bot",
+    "Message": "\uD83D\uDDD1\uFE0F Removed all 1 tasks successfully.",
+    "Timestamp": "2025-06-27T12:41:55.4716967+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": "task"
+  },
+  {
+    "Id": "de5148c4-ff39-4e76-b794-ddb02f14e942",
+    "Sender": "User",
+    "Message": "show all tasks",
+    "Timestamp": "2025-06-27T12:42:01.8377474+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": null
+  },
+  {
+    "Id": "2c20f7f2-9e4f-414e-9a34-ca793036a250",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 0 tasks found",
+    "Timestamp": "2025-06-27T12:42:02.56847+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": "task"
+  },
+  {
+    "Id": "f4be7d26-7eb3-4041-bb37-c5c9cdebe5e8",
+    "Sender": "User",
+    "Message": "remind me to change my pasword in 3 days",
+    "Timestamp": "2025-06-27T12:42:11.8727631+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": null
+  },
+  {
+    "Id": "51fd5653-718c-47f8-b3f9-6774378b4061",
+    "Sender": "Bot",
+    "Message": "\u2705 Task created: \u0027change my pasword in 3 days\u0027 - Reminder set for 2025/06/30 12:42",
+    "Timestamp": "2025-06-27T12:42:11.9071665+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": "task"
+  },
+  {
+    "Id": "6c3bb84e-38f9-45f6-b3a8-8bee32d3a5ff",
+    "Sender": "User",
+    "Message": "remind me to update my email",
+    "Timestamp": "2025-06-27T12:42:20.4082908+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": null
+  },
+  {
+    "Id": "b5a7efaa-9b61-4e13-90a6-a9ef5caf7b40",
+    "Sender": "Bot",
+    "Message": "Great! I\u0027ll create a task for \u0027update my email\u0027. When would you like to be reminded? (e.g., \u0027tomorrow\u0027, \u00273pm\u0027, \u0027in 2 hours\u0027)",
+    "Timestamp": "2025-06-27T12:42:20.4291207+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": null
+  },
+  {
+    "Id": "9f5dced1-fb6e-4035-8770-4cc688968bd5",
+    "Sender": "Bot",
+    "Message": "\u2705 Task created: \u0027update my email\u0027 - Reminder set for 2025/06/27 14:42",
+    "Timestamp": "2025-06-27T12:42:30.351496+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": "task"
+  },
+  {
+    "Id": "e417c151-2272-4b64-a19e-f6c287465e07",
+    "Sender": "User",
+    "Message": "show all tasks",
+    "Timestamp": "2025-06-27T12:42:35.0203253+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": null
+  },
+  {
+    "Id": "830a5150-130d-4996-8104-ba8807c06602",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 2 tasks found",
+    "Timestamp": "2025-06-27T12:42:35.7406319+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": "task"
+  },
+  {
+    "Id": "77742ea3-785f-4eb6-a637-ebc8a6c835ca",
+    "Sender": "User",
+    "Message": "delete update my email",
+    "Timestamp": "2025-06-27T12:42:48.6483392+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": null
+  },
+  {
+    "Id": "2377538e-8380-489c-a90b-03c889a14536",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure I understand. Try asking about cybersecurity topics like passwords, phishing, malware, or type \u0027help\u0027 to see what I can help you with.",
+    "Timestamp": "2025-06-27T12:42:48.6720252+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": null
+  },
+  {
+    "Id": "f28ccc1a-b981-42e9-898a-2559e1812045",
+    "Sender": "User",
+    "Message": "delete \u0022update my email\u0022",
+    "Timestamp": "2025-06-27T12:43:04.091657+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": null
+  },
+  {
+    "Id": "cc0daae1-5a0c-4126-9c0c-ad2fc40c0c46",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure I understand. Try asking about cybersecurity topics like passwords, phishing, malware, or type \u0027help\u0027 to see what I can help you with.",
+    "Timestamp": "2025-06-27T12:43:04.0987489+02:00",
+    "SessionId": "b980fc06-c9c6-4c17-b2ce-6053f1c6d02c",
+    "Topic": null
+  },
+  {
+    "Id": "f6c596df-791a-40c3-b982-0043c3d671a6",
+    "Sender": "Bot",
+    "Message": "Welcome, john! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T12:44:23.664462+02:00",
+    "SessionId": "002f17a5-8185-435b-ba97-c503746a9000",
+    "Topic": null
+  },
+  {
+    "Id": "4a5d8f55-9c53-4648-b0f6-bfb7722838ca",
+    "Sender": "User",
+    "Message": "show all tasks",
+    "Timestamp": "2025-06-27T12:44:29.7447644+02:00",
+    "SessionId": "002f17a5-8185-435b-ba97-c503746a9000",
+    "Topic": null
+  },
+  {
+    "Id": "ffbeb9e8-7aca-4986-9c35-c6fab29d9e54",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 2 tasks found",
+    "Timestamp": "2025-06-27T12:44:30.4633495+02:00",
+    "SessionId": "002f17a5-8185-435b-ba97-c503746a9000",
+    "Topic": "task"
+  },
+  {
+    "Id": "52ce7585-f8bf-4c04-8ab7-530cbea001e4",
+    "Sender": "User",
+    "Message": "delete update my email",
+    "Timestamp": "2025-06-27T12:44:37.5221946+02:00",
+    "SessionId": "002f17a5-8185-435b-ba97-c503746a9000",
+    "Topic": null
+  },
+  {
+    "Id": "c9434df3-aaa6-4235-a771-f04276923fa2",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure I understand. Try asking about cybersecurity topics like passwords, phishing, malware, or type \u0027help\u0027 to see what I can help you with.",
+    "Timestamp": "2025-06-27T12:44:37.5457781+02:00",
+    "SessionId": "002f17a5-8185-435b-ba97-c503746a9000",
+    "Topic": null
+  },
+  {
+    "Id": "80af73cd-4d67-447f-bb75-d197f908099d",
+    "Sender": "User",
+    "Message": "delete task update my email",
+    "Timestamp": "2025-06-27T12:44:56.5526659+02:00",
+    "SessionId": "002f17a5-8185-435b-ba97-c503746a9000",
+    "Topic": null
+  },
+  {
+    "Id": "dd3640db-7b0b-4008-837c-b9b598cda0e2",
+    "Sender": "Bot",
+    "Message": "\u2705 Task deleted: \u0027update my email\u0027",
+    "Timestamp": "2025-06-27T12:44:56.5703358+02:00",
+    "SessionId": "002f17a5-8185-435b-ba97-c503746a9000",
+    "Topic": "task"
+  },
+  {
+    "Id": "0ca1b044-380e-4273-a1cf-dc12486d6807",
+    "Sender": "User",
+    "Message": "make task change my password in 3 days complete",
+    "Timestamp": "2025-06-27T12:45:21.5829412+02:00",
+    "SessionId": "002f17a5-8185-435b-ba97-c503746a9000",
+    "Topic": null
+  },
+  {
+    "Id": "fd54a117-c07c-4190-bc3f-ce9c8001216e",
+    "Sender": "Bot",
+    "Message": "Password safety involves using secure and robust passwords to protect sensitive data and systems from unauthorized access. It includes strategies like creating strong passwords, avoiding weak or repetitive ones, and using tools like password managers to securely store credentials.",
+    "Timestamp": "2025-06-27T12:45:22.3156553+02:00",
+    "SessionId": "002f17a5-8185-435b-ba97-c503746a9000",
+    "Topic": "password"
+  },
+  {
+    "Id": "19678855-1888-415a-b76f-43f2decf0828",
+    "Sender": "User",
+    "Message": "mark my change my password task complete",
+    "Timestamp": "2025-06-27T12:45:40.7121925+02:00",
+    "SessionId": "002f17a5-8185-435b-ba97-c503746a9000",
+    "Topic": null
+  },
+  {
+    "Id": "88e2b4df-832e-4fd7-9602-4f79f6d52ea8",
+    "Sender": "Bot",
+    "Message": "Password safety involves using secure and robust passwords to protect sensitive data and systems from unauthorized access. It includes strategies like creating strong passwords, avoiding weak or repetitive ones, and using tools like password managers to securely store credentials.",
+    "Timestamp": "2025-06-27T12:45:41.4480817+02:00",
+    "SessionId": "002f17a5-8185-435b-ba97-c503746a9000",
+    "Topic": "password"
+  },
+  {
+    "Id": "ecba0ee8-4ecd-4c44-bee8-7579078b6218",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T12:47:19.6246126+02:00",
+    "SessionId": "3235a030-f424-4ce8-9253-0704ad55dc6e",
+    "Topic": null
+  },
+  {
+    "Id": "ef2951b2-89dc-4196-9e2a-526d9c508fd9",
+    "Sender": "User",
+    "Message": "show all tasks",
+    "Timestamp": "2025-06-27T12:47:24.6936017+02:00",
+    "SessionId": "3235a030-f424-4ce8-9253-0704ad55dc6e",
+    "Topic": null
+  },
+  {
+    "Id": "d2e7dbb5-0459-44b7-9d82-4dc50d09e531",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 1 tasks found",
+    "Timestamp": "2025-06-27T12:47:25.397795+02:00",
+    "SessionId": "3235a030-f424-4ce8-9253-0704ad55dc6e",
+    "Topic": "task"
+  },
+  {
+    "Id": "435b47a1-fb4f-4f4b-a95c-e01c2ca9ad59",
+    "Sender": "User",
+    "Message": "complete task change my password in 3 days",
+    "Timestamp": "2025-06-27T12:47:50.6608086+02:00",
+    "SessionId": "3235a030-f424-4ce8-9253-0704ad55dc6e",
+    "Topic": null
+  },
+  {
+    "Id": "5da55c3b-9307-40d2-9045-4a4cc13e278d",
+    "Sender": "Bot",
+    "Message": "Task \u0027change my password in 3 days\u0027 not found or already completed.",
+    "Timestamp": "2025-06-27T12:47:51.3905856+02:00",
+    "SessionId": "3235a030-f424-4ce8-9253-0704ad55dc6e",
+    "Topic": "task"
+  },
+  {
+    "Id": "3abad15d-b6bc-4da9-8721-c4b4c0bc60e8",
+    "Sender": "User",
+    "Message": "complete task change my pasword in 3 days",
+    "Timestamp": "2025-06-27T12:48:13.4584405+02:00",
+    "SessionId": "3235a030-f424-4ce8-9253-0704ad55dc6e",
+    "Topic": null
+  },
+  {
+    "Id": "b0ca38b1-8877-493c-a74a-abcc23a62407",
+    "Sender": "Bot",
+    "Message": "Task \u0027change my pasword in 3 days\u0027 marked as completed!",
+    "Timestamp": "2025-06-27T12:48:14.1989521+02:00",
+    "SessionId": "3235a030-f424-4ce8-9253-0704ad55dc6e",
+    "Topic": "task"
+  },
+  {
+    "Id": "9dda0911-aee3-460a-b29e-69ee52b76eca",
+    "Sender": "User",
+    "Message": "show all tasks",
+    "Timestamp": "2025-06-27T12:48:19.3172831+02:00",
+    "SessionId": "3235a030-f424-4ce8-9253-0704ad55dc6e",
+    "Topic": null
+  },
+  {
+    "Id": "3ecd9a25-018f-4dde-9648-68aaf356996c",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 1 tasks found",
+    "Timestamp": "2025-06-27T12:48:20.0474693+02:00",
+    "SessionId": "3235a030-f424-4ce8-9253-0704ad55dc6e",
+    "Topic": "task"
+  },
+  {
+    "Id": "f2900c97-25f8-40ea-91ba-137db9e322e3",
+    "Sender": "User",
+    "Message": "remove all tasks",
+    "Timestamp": "2025-06-27T12:48:32.6551644+02:00",
+    "SessionId": "3235a030-f424-4ce8-9253-0704ad55dc6e",
+    "Topic": null
+  },
+  {
+    "Id": "7a77b7a3-af1f-4168-aa48-6ef6753e4776",
+    "Sender": "Bot",
+    "Message": "\uD83D\uDDD1\uFE0F Removed all 1 tasks successfully.",
+    "Timestamp": "2025-06-27T12:48:32.6770894+02:00",
+    "SessionId": "3235a030-f424-4ce8-9253-0704ad55dc6e",
+    "Topic": "task"
+  },
+  {
+    "Id": "20ccd7db-672d-41a5-9dbc-9496e6d135e7",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T12:51:34.6998254+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "5b050d77-9598-441e-bdbf-1244ef0361de",
+    "Sender": "User",
+    "Message": "PAsswords",
+    "Timestamp": "2025-06-27T12:51:49.0958734+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "f013bbb1-9ba7-457b-a9e9-d58617ca4d81",
+    "Sender": "Bot",
+    "Message": "Password safety involves using secure and robust passwords to protect sensitive data and systems from unauthorized access. It includes strategies like creating strong passwords, avoiding weak or repetitive ones, and using tools like password managers to securely store credentials.",
+    "Timestamp": "2025-06-27T12:51:49.8006244+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": "password"
+  },
+  {
+    "Id": "969b35ee-ab32-4962-b688-2addb8984a6a",
+    "Sender": "User",
+    "Message": "tip on password safety",
+    "Timestamp": "2025-06-27T12:51:59.3128073+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "ff6d18e1-fb48-43b6-bd07-507a86ae605d",
+    "Sender": "Bot",
+    "Message": "Tip displayed for password",
+    "Timestamp": "2025-06-27T12:51:59.3305698+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "79302a93-8fe4-4ae5-8836-c592c355a692",
+    "Sender": "User",
+    "Message": "remind me to change my password in 7 days",
+    "Timestamp": "2025-06-27T12:52:11.58116+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "e642e976-9c19-444e-977c-af3bb94523bc",
+    "Sender": "Bot",
+    "Message": "\u2705 Task created: \u0027change my password in 7 days\u0027 - Reminder set for 2025/07/04 12:52",
+    "Timestamp": "2025-06-27T12:52:11.613838+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": "task"
+  },
+  {
+    "Id": "205643fd-2ccc-4ea4-8afd-26492b8827fd",
+    "Sender": "User",
+    "Message": "show all tasks",
+    "Timestamp": "2025-06-27T12:52:18.1506167+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "9e117a25-5e1f-49be-bf74-e0b717c3980e",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 1 tasks found",
+    "Timestamp": "2025-06-27T12:52:18.8782987+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": "task"
+  },
+  {
+    "Id": "65685dd6-8d92-4b72-9173-1778d9ac2a31",
+    "Sender": "User",
+    "Message": "complete task change my password in 7 days",
+    "Timestamp": "2025-06-27T12:52:35.6074647+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "1b4ec848-7664-40df-b582-d73a4251bafc",
+    "Sender": "Bot",
+    "Message": "Task \u0027change my password in 7 days\u0027 marked as completed!",
+    "Timestamp": "2025-06-27T12:52:36.3241024+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": "task"
+  },
+  {
+    "Id": "ecece632-afff-42ee-aa23-2f9c96ddf61c",
+    "Sender": "User",
+    "Message": "all taskss",
+    "Timestamp": "2025-06-27T12:52:43.564773+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "9db93304-facd-4048-95c2-db0b2b57337f",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 1 tasks found",
+    "Timestamp": "2025-06-27T12:52:44.2983569+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": "task"
+  },
+  {
+    "Id": "9feda20a-b323-4153-8f8f-57bc4ae45e52",
+    "Sender": "User",
+    "Message": "remove all tasks",
+    "Timestamp": "2025-06-27T12:52:54.3399906+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "1c539b06-6de0-4624-98a9-b36debcae8d8",
+    "Sender": "Bot",
+    "Message": "\uD83D\uDDD1\uFE0F Removed all 1 tasks successfully.",
+    "Timestamp": "2025-06-27T12:52:54.3636777+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": "task"
+  },
+  {
+    "Id": "bbe892fe-49f2-4f07-8d35-4dca3f6d528f",
+    "Sender": "User",
+    "Message": "tasks",
+    "Timestamp": "2025-06-27T12:52:57.865909+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "aee5c31f-0ce2-47ec-98f5-0a0a9ae093ff",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure what specific aspect of password you\u0027re asking about. You can ask for more information, examples, how to implement it, or what to avoid.",
+    "Timestamp": "2025-06-27T12:52:57.8746399+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "86eaaa98-5b2e-4231-b816-a06704993d8e",
+    "Sender": "User",
+    "Message": "show all tasks",
+    "Timestamp": "2025-06-27T12:53:04.9593297+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "fdfb29dd-6386-4252-a902-20ac11a06bb9",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 0 tasks found",
+    "Timestamp": "2025-06-27T12:53:05.706974+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": "task"
+  },
+  {
+    "Id": "e7409c06-0f11-41ab-8f97-8b0efbdb0bed",
+    "Sender": "User",
+    "Message": "lets take a quiz",
+    "Timestamp": "2025-06-27T12:53:16.7388406+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "4e4d0c62-9dcf-41fd-a349-608cd7881192",
+    "Sender": "Bot",
+    "Message": "Started cybersecurity quiz",
+    "Timestamp": "2025-06-27T12:53:17.4676683+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": "quiz"
+  },
+  {
+    "Id": "9add245e-e846-4fa9-8c7f-f010db36485a",
+    "Sender": "Bot",
+    "Message": "Completed cybersecurity quiz with score: 3/10",
+    "Timestamp": "2025-06-27T12:53:51.7438303+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": "quiz"
+  },
+  {
+    "Id": "5a7ed4f2-cde9-46b2-94ea-395a37fcd8c6",
+    "Sender": "User",
+    "Message": "show activity log",
+    "Timestamp": "2025-06-27T12:54:06.8199133+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "f53b7cb7-61e8-4608-ac6f-b0c349c47b3f",
+    "Sender": "Bot",
+    "Message": "Displayed Recent Activity Log: 10 activities found",
+    "Timestamp": "2025-06-27T12:54:07.561475+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": "activity"
+  },
+  {
+    "Id": "66117d9f-3b38-495e-b52d-f67fff5aad00",
+    "Sender": "User",
+    "Message": "clear log",
+    "Timestamp": "2025-06-27T12:54:26.5756367+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "ee0344d0-e0d7-4bcc-a1c1-df85c39a0bf6",
+    "Sender": "Bot",
+    "Message": "I\u0027m not sure what specific aspect of password you\u0027re asking about. You can ask for more information, examples, how to implement it, or what to avoid.",
+    "Timestamp": "2025-06-27T12:54:26.5922583+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "d067beeb-91cc-4014-83e7-74fdd77afb21",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T12:54:31.2751638+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "d6475e89-7010-468f-a3ae-e51e35281ebd",
+    "Sender": "User",
+    "Message": "task help",
+    "Timestamp": "2025-06-27T12:54:43.7328942+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "e7a8e5c0-d09b-49e8-8f13-3af773c2c743",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T12:54:43.8321773+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "4258749d-3e4b-4910-9c1a-cb168bb1a25b",
+    "Sender": "User",
+    "Message": "activity help",
+    "Timestamp": "2025-06-27T12:54:55.4894942+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "f5d9d663-872b-4b2c-a5c8-9b7ca68c7a2c",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T12:54:55.5935672+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "2b20c27b-e326-43c9-8e4e-b5e4aed64422",
+    "Sender": "User",
+    "Message": "goodbye",
+    "Timestamp": "2025-06-27T12:55:06.6527561+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "7d02066e-e459-446c-b0f5-79f44c3cb889",
+    "Sender": "Bot",
+    "Message": "Thank you for using the Cybersecurity Awareness Bot. Stay safe online!",
+    "Timestamp": "2025-06-27T12:55:06.6745204+02:00",
+    "SessionId": "056359d8-d7ec-4500-b706-ac8d0f11372f",
+    "Topic": null
+  },
+  {
+    "Id": "0715adc8-3da0-4baa-a569-a9463d8ccc1e",
+    "Sender": "Bot",
+    "Message": "Welcome, John! I\u0027m here to help you learn about cybersecurity and manage your security tasks.",
+    "Timestamp": "2025-06-27T13:35:22.8649683+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "8cd32f4c-611d-4767-a492-f61d541594c0",
+    "Sender": "User",
+    "Message": "help",
+    "Timestamp": "2025-06-27T13:35:39.525513+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "71a363e1-f435-4452-8b2a-316f793e007d",
+    "Sender": "Bot",
+    "Message": "Help information displayed",
+    "Timestamp": "2025-06-27T13:35:39.596231+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "08b8392e-90c2-480d-8aec-87bd756d9d37",
+    "Sender": "User",
+    "Message": "password",
+    "Timestamp": "2025-06-27T13:35:54.3250904+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "5d04b36b-5fb1-44ca-8789-6b00ac6dfb89",
+    "Sender": "Bot",
+    "Message": "Password safety involves using secure and robust passwords to protect sensitive data and systems from unauthorized access. It includes strategies like creating strong passwords, avoiding weak or repetitive ones, and using tools like password managers to securely store credentials.",
+    "Timestamp": "2025-06-27T13:35:55.0590844+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": "password"
+  },
+  {
+    "Id": "e470be98-f470-4433-920d-dd3ee9af6801",
+    "Sender": "User",
+    "Message": "tip on password",
+    "Timestamp": "2025-06-27T13:36:01.3926767+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "0e15dd4b-3e30-4616-a7b7-784d3ae6e77f",
+    "Sender": "Bot",
+    "Message": "Tip displayed for password",
+    "Timestamp": "2025-06-27T13:36:01.4136857+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "864d1e98-fbcb-469f-bc72-ab7ebfb29e44",
+    "Sender": "User",
+    "Message": "remind me to delete my email",
+    "Timestamp": "2025-06-27T13:36:14.703691+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "49d09994-4051-4f9a-83f6-b8ab1c5a5c99",
+    "Sender": "Bot",
+    "Message": "Great! I\u0027ll create a task for \u0027delete my email\u0027. When would you like to be reminded? (e.g., \u0027tomorrow\u0027, \u00273pm\u0027, \u0027in 2 hours\u0027)",
+    "Timestamp": "2025-06-27T13:36:14.7331441+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "6372982e-8ead-4b19-92de-201ae67d3bc8",
+    "Sender": "Bot",
+    "Message": "\u2705 Task created: \u0027delete my email\u0027 - Reminder set for 2025/06/28 13:36",
+    "Timestamp": "2025-06-27T13:36:21.2047532+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": "task"
+  },
+  {
+    "Id": "5d0a6799-bcdf-47d7-88ed-4d46f958cd4b",
+    "Sender": "User",
+    "Message": "show all tasks",
+    "Timestamp": "2025-06-27T13:36:32.7931247+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "7e3d213a-aa5e-4b9d-b009-b33e2915339a",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 1 tasks found",
+    "Timestamp": "2025-06-27T13:36:33.5267811+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": "task"
+  },
+  {
+    "Id": "9388727f-393c-456f-8047-bc5541c5898a",
+    "Sender": "User",
+    "Message": "complete task delete my email",
+    "Timestamp": "2025-06-27T13:37:07.8570547+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "6582e14d-d2eb-4d97-8652-919e9fac3aaf",
+    "Sender": "Bot",
+    "Message": "Task \u0027delete my email\u0027 marked as completed!",
+    "Timestamp": "2025-06-27T13:37:08.5759138+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": "task"
+  },
+  {
+    "Id": "46c37168-32ce-478e-a381-4ffacfeae7b7",
+    "Sender": "User",
+    "Message": "show all tasks",
+    "Timestamp": "2025-06-27T13:38:23.3766216+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "fd7bcfec-8cf3-4f6d-910e-3eec22823657",
+    "Sender": "Bot",
+    "Message": "Displayed All Tasks: 1 tasks found",
+    "Timestamp": "2025-06-27T13:38:24.0968301+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": "task"
+  },
+  {
+    "Id": "0d111de2-614a-43e6-bebf-c7cf6aab0a60",
+    "Sender": "User",
+    "Message": "delete all tasks",
+    "Timestamp": "2025-06-27T13:38:30.5119783+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "3eeb5016-a42f-4774-afa7-cc51805fa4fb",
+    "Sender": "Bot",
+    "Message": "\uD83D\uDDD1\uFE0F Removed all 1 tasks successfully.",
+    "Timestamp": "2025-06-27T13:38:30.5233538+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": "task"
+  },
+  {
+    "Id": "d0c42c81-ffec-4b4e-b731-cac3a9de38bd",
+    "Sender": "User",
+    "Message": "start quiz",
+    "Timestamp": "2025-06-27T13:38:42.0880615+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "03efb036-a03d-47bd-be7b-088073f7ea8b",
+    "Sender": "Bot",
+    "Message": "Started cybersecurity quiz",
+    "Timestamp": "2025-06-27T13:38:42.8060796+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": "quiz"
+  },
+  {
+    "Id": "8ea5261a-f914-4287-93cd-f41bd101217f",
+    "Sender": "Bot",
+    "Message": "Completed cybersecurity quiz with score: 7/10",
+    "Timestamp": "2025-06-27T13:39:10.9688801+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": "quiz"
+  },
+  {
+    "Id": "aabed65a-51f3-4499-8af4-2190651ee11e",
+    "Sender": "User",
+    "Message": "show activity log",
+    "Timestamp": "2025-06-27T13:39:29.9821267+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": null
+  },
+  {
+    "Id": "78e7b49d-6ac8-4f26-85c0-781fe189543d",
+    "Sender": "Bot",
+    "Message": "Displayed Recent Activity Log: 10 activities found",
+    "Timestamp": "2025-06-27T13:39:30.7229146+02:00",
+    "SessionId": "587b9028-0b75-4188-a834-e8e969e3fa87",
+    "Topic": "activity"
+  }
+]
